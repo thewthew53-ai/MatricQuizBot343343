@@ -1,0 +1,745 @@
+Questions = [
+    # ============================================================
+    # PAPER 1: ALGEBRA, EQUATIONS AND INEQUALITIES
+    # ============================================================
+    {
+        "id": "MATH1",
+        "question": "Solve for x: 2x² - 5x - 3 = 0. 🧮"
+    },
+    {
+        "id": "MATH2",
+        "question": "Solve for x: 3x² + 7x - 6 = 0 using the quadratic formula. 🧮"
+    },
+    {
+        "id": "MATH3",
+        "question": "Solve for x: x² - 4x + 4 = 0 by factorisation. 🧮"
+    },
+    {
+        "id": "MATH4",
+        "question": "Solve for x: 2x² + 3x - 5 = 0 (correct to TWO decimal places). 🧮"
+    },
+    {
+        "id": "MATH5",
+        "question": "Solve for x: √(x + 3) = 5. 🧮"
+    },
+    {
+        "id": "MATH6",
+        "question": "Solve for x: √(2x + 1) = x - 1. 🧮"
+    },
+    {
+        "id": "MATH7",
+        "question": "Solve for x using substitution (k-method): x⁴ - 5x² + 4 = 0. 🧮"
+    },
+    {
+        "id": "MATH8",
+        "question": "Solve for x: 2ˣ = 16. 🧮"
+    },
+    {
+        "id": "MATH9",
+        "question": "Solve for x: 3^(2x+1) = 27. 🧮"
+    },
+    {
+        "id": "MATH10",
+        "question": "Solve for x: log₂(x) = 5. 📐"
+    },
+    {
+        "id": "MATH11",
+        "question": "Simplify: (3x²y³)². 📐"
+    },
+    {
+        "id": "MATH12",
+        "question": "Solve the inequality: 2x - 5 > 7. 📊"
+    },
+    {
+        "id": "MATH13",
+        "question": "Solve the inequality: x² - 4x - 5 < 0. 📊"
+    },
+    {
+        "id": "MATH14",
+        "question": "Determine the nature of the roots of: x² + 4x + 4 = 0. 🌱"
+    },
+    {
+        "id": "MATH15",
+        "question": "Determine the nature of the roots of: 2x² - 3x + 5 = 0. 🌱"
+    },
+    {
+        "id": "MATH16",
+        "question": "For which values of k will the equation x² + 2kx + k + 2 = 0 have real roots? 🌱"
+    },
+    {
+        "id": "MATH17",
+        "question": "Solve simultaneously: x + y = 5 and x² + y² = 13. 📐"
+    },
+    {
+        "id": "MATH18",
+        "question": "Solve simultaneously: 2x - y = 1 and x² + y² = 10. 📐"
+    },
+    {
+        "id": "MATH19",
+        "question": "Simplify: (x² - 4)/(x - 2). 📐"
+    },
+    {
+        "id": "MATH20",
+        "question": "Simplify: (3x² - 12)/(x² - 4x + 4). 📐"
+    },
+
+    # ============================================================
+    # PAPER 1: NUMBER PATTERNS, SEQUENCES AND SERIES
+    # ============================================================
+    {
+        "id": "MATH21",
+        "question": "Determine the nth term of the arithmetic sequence: 5, 9, 13, 17, ... 📐"
+    },
+    {
+        "id": "MATH22",
+        "question": "Determine the nth term of the geometric sequence: 3, 6, 12, 24, ... 📐"
+    },
+    {
+        "id": "MATH23",
+        "question": "Find the 10th term of the arithmetic sequence: 2, 7, 12, 17, ... 🔢"
+    },
+    {
+        "id": "MATH24",
+        "question": "Find the 8th term of the geometric sequence: 4, 12, 36, ... 🔢"
+    },
+    {
+        "id": "MATH25",
+        "question": "Calculate the sum of the first 20 terms of: 5, 8, 11, 14, ... 📊"
+    },
+    {
+        "id": "MATH26",
+        "question": "Calculate the sum of the first 10 terms of: 2, 6, 18, 54, ... 📊"
+    },
+    {
+        "id": "MATH27",
+        "question": "Determine the sum to infinity of: 8 + 4 + 2 + 1 + ... ♾️"
+    },
+    {
+        "id": "MATH28",
+        "question": "Determine the sum to infinity of: 27 + 9 + 3 + 1 + ... ♾️"
+    },
+    {
+        "id": "MATH29",
+        "question": "Given the quadratic sequence: 3, 8, 15, 24, 35, ... Determine the nth term. 📐"
+    },
+    {
+        "id": "MATH30",
+        "question": "The first differences of a quadratic sequence are: 5, 7, 9, 11, ... Determine the general term. 📐"
+    },
+    {
+        "id": "MATH31",
+        "question": "Given: Tₙ = 2n² + 3n - 1. Determine the first three terms. 🔢"
+    },
+    {
+        "id": "MATH32",
+        "question": "Given: Tₙ = n² + 2n. For which value of n is Tₙ = 35? 🔢"
+    },
+
+    # ============================================================
+    # PAPER 1: FUNCTIONS AND GRAPHS
+    # ============================================================
+    {
+        "id": "MATH33",
+        "question": "Sketch the graph of f(x) = x² - 4x + 3. Identify the intercepts and turning point. 📈"
+    },
+    {
+        "id": "MATH34",
+        "question": "Sketch the graph of f(x) = -x² + 4x - 3. 📈"
+    },
+    {
+        "id": "MATH35",
+        "question": "Given f(x) = 2x² - 8x + 6. Determine the axis of symmetry. 📈"
+    },
+    {
+        "id": "MATH36",
+        "question": "Given f(x) = x² - 6x + 8. Determine the turning point. 📈"
+    },
+    {
+        "id": "MATH37",
+        "question": "Sketch the graph of f(x) = 2ˣ and g(x) = (1/2)ˣ on the same axes. 📈"
+    },
+    {
+        "id": "MATH38",
+        "question": "Given f(x) = 3ˣ. Determine the equation of f⁻¹(x). 📈"
+    },
+    {
+        "id": "MATH39",
+        "question": "Determine the inverse of f(x) = x² (x ≥ 0). 📈"
+    },
+    {
+        "id": "MATH40",
+        "question": "Sketch the graph of f(x) = log₂(x). 📈"
+    },
+    {
+        "id": "MATH41",
+        "question": "Given f(x) = 2x² + 4x - 6. Describe the transformation to obtain g(x) = 2(x-3)² + 4(x-3) - 6. 🔄"
+    },
+    {
+        "id": "MATH42",
+        "question": "Given f(x) = x². Describe how to obtain g(x) = -2(x+1)² + 3. 🔄"
+    },
+    {
+        "id": "MATH43",
+        "question": "Determine the equation of a cubic function with roots at x = -2, x = 1, x = 3 and passing through (0, 12). 📈"
+    },
+    {
+        "id": "MATH44",
+        "question": "Given f(x) = x³ - 3x² - 9x + 27. Determine the x-intercepts. 📈"
+    },
+    {
+        "id": "MATH45",
+        "question": "Given f(x) = x³ - 6x² + 9x. Determine the stationary points. 📈"
+    },
+    {
+        "id": "MATH46",
+        "question": "Given f(x) = x³ - 3x² + 2. Determine the point of inflection. 📈"
+    },
+    {
+        "id": "MATH47",
+        "question": "Sketch the graph of f(x) = x³ - 3x. 📈"
+    },
+    {
+        "id": "MATH48",
+        "question": "Determine the equation of f(x) = x³ given that it is transformed by a translation of 2 units right and 3 units up. 🔄"
+    },
+
+    # ============================================================
+    # PAPER 1: DIFFERENTIAL CALCULUS
+    # ============================================================
+    {
+        "id": "MATH49",
+        "question": "Differentiate from first principles: f(x) = x². 📐"
+    },
+    {
+        "id": "MATH50",
+        "question": "Differentiate from first principles: f(x) = 3x². 📐"
+    },
+    {
+        "id": "MATH51",
+        "question": "Find f'(x) if f(x) = 4x³ - 2x² + 5x - 7. 📐"
+    },
+    {
+        "id": "MATH52",
+        "question": "Find f'(x) if f(x) = (2x² + 1)(x - 3). 📐"
+    },
+    {
+        "id": "MATH53",
+        "question": "Find f'(x) if f(x) = 5/x². 📐"
+    },
+    {
+        "id": "MATH54",
+        "question": "Find f'(x) if f(x) = √x. 📐"
+    },
+    {
+        "id": "MATH55",
+        "question": "Find f'(x) if f(x) = (2x + 1)³. 📐"
+    },
+    {
+        "id": "MATH56",
+        "question": "Determine the equation of the tangent to f(x) = x² at x = 2. 📐"
+    },
+    {
+        "id": "MATH57",
+        "question": "Determine the equation of the tangent to f(x) = x³ at x = 1. 📐"
+    },
+    {
+        "id": "MATH58",
+        "question": "Given f(x) = x³ - 6x² + 9x + 2. Determine the coordinates of the local maximum and local minimum. 📈"
+    },
+    {
+        "id": "MATH59",
+        "question": "Given f(x) = -x³ + 6x² - 9x + 4. Determine the stationary points. 📈"
+    },
+    {
+        "id": "MATH60",
+        "question": "Given f(x) = x³ - 3x² - 9x + 5. Determine the intervals where f is increasing. 📈"
+    },
+    {
+        "id": "MATH61",
+        "question": "Given f(x) = x³ - 3x² - 9x + 5. Determine the intervals where f is decreasing. 📈"
+    },
+    {
+        "id": "MATH62",
+        "question": "A rectangular field is to be enclosed with 200 m of fencing. Determine the maximum area that can be enclosed. 📐"
+    },
+    {
+        "id": "MATH63",
+        "question": "A rectangular box with a square base has a volume of 64 cm³. Determine the dimensions that minimise the surface area. 📦"
+    },
+    {
+        "id": "MATH64",
+        "question": "Sketch the graph of f'(x) given that f(x) = x³ - 3x. 📈"
+    },
+    {
+        "id": "MATH65",
+        "question": "Given f'(x) = 3x² - 6x + 2. Determine where f is increasing. 📈"
+    },
+
+    # ============================================================
+    # PAPER 1: FINANCE, GROWTH AND DECAY
+    # ============================================================
+    {
+        "id": "MATH66",
+        "question": "R5 000 is invested at 8% simple interest per annum for 3 years. Calculate the total amount after 3 years. 💰"
+    },
+    {
+        "id": "MATH67",
+        "question": "R10 000 is invested at 7% compound interest per annum for 2 years. Calculate the future value. 💰"
+    },
+    {
+        "id": "MATH68",
+        "question": "A car depreciates at 15% per annum. If it was bought for R250 000, what is its value after 3 years? 🚗"
+    },
+    {
+        "id": "MATH69",
+        "question": "Convert a nominal interest rate of 12% per annum compounded monthly to an effective interest rate. 💰"
+    },
+    {
+        "id": "MATH70",
+        "question": "Convert an effective interest rate of 12.68% per annum to a nominal interest rate compounded monthly. 💰"
+    },
+    {
+        "id": "MATH71",
+        "question": "A loan of R50 000 is taken at 15% per annum compounded monthly. Calculate the monthly instalment if the loan is repaid over 5 years. 💳"
+    },
+    {
+        "id": "MATH72",
+        "question": "Calculate the future value of R200 deposited monthly into an account earning 9% per annum compounded monthly for 10 years. 🏦"
+    },
+    {
+        "id": "MATH73",
+        "question": "An investment grows from R10 000 to R15 000 in 3 years. Calculate the annual compound interest rate. 💰"
+    },
+
+    # ============================================================
+    # PAPER 1: PROBABILITY
+    # ============================================================
+    {
+        "id": "MATH74",
+        "question": "A bag contains 5 red, 3 blue and 2 green marbles. What is the probability of selecting a red marble? 🎲"
+    },
+    {
+        "id": "MATH75",
+        "question": "A fair coin is tossed 3 times. What is the probability of getting exactly 2 heads? 🪙"
+    },
+    {
+        "id": "MATH76",
+        "question": "Two dice are rolled. What is the probability of getting a sum of 7? 🎲"
+    },
+    {
+        "id": "MATH77",
+        "question": "A card is drawn from a standard deck of 52 cards. What is the probability of drawing a heart? 🃏"
+    },
+    {
+        "id": "MATH78",
+        "question": "A bag contains 4 red and 6 blue marbles. Two marbles are drawn without replacement. What is the probability of drawing two red marbles? 🎲"
+    },
+    {
+        "id": "MATH79",
+        "question": "How many different ways can the letters of the word 'MATHS' be arranged? 📝"
+    },
+    {
+        "id": "MATH80",
+        "question": "How many different ways can the letters of the word 'SCHOOL' be arranged? 📝"
+    },
+    {
+        "id": "MATH81",
+        "question": "In how many ways can 5 people be seated in a row? 🪑"
+    },
+    {
+        "id": "MATH82",
+        "question": "A committee of 3 people is to be chosen from 8 people. How many different committees are possible? 👥"
+    },
+    {
+        "id": "MATH83",
+        "question": "The probability of event A is 0.4 and event B is 0.3. If A and B are mutually exclusive, what is P(A or B)? 📊"
+    },
+    {
+        "id": "MATH84",
+        "question": "P(A) = 0.6 and P(B) = 0.5. P(A and B) = 0.3. Calculate P(A or B). 📊"
+    },
+
+    # ============================================================
+    # PAPER 2: STATISTICS AND REGRESSION
+    # ============================================================
+    {
+        "id": "MATH85",
+        "question": "Calculate the mean of: 12, 15, 18, 20, 25, 30. 📊"
+    },
+    {
+        "id": "MATH86",
+        "question": "Calculate the median of: 5, 8, 10, 12, 15, 18, 20. 📊"
+    },
+    {
+        "id": "MATH87",
+        "question": "Calculate the mode of: 2, 3, 5, 3, 7, 3, 9. 📊"
+    },
+    {
+        "id": "MATH88",
+        "question": "Calculate the range of: 10, 15, 22, 28, 35, 40. 📊"
+    },
+    {
+        "id": "MATH89",
+        "question": "Calculate the standard deviation of: 4, 6, 8, 10, 12. (Use your calculator) 📊"
+    },
+    {
+        "id": "MATH90",
+        "question": "Determine the equation of the least squares regression line for the data: (1,2), (2,4), (3,5), (4,7), (5,9). 📊"
+    },
+    {
+        "id": "MATH91",
+        "question": "Construct a box and whisker diagram for: 5, 7, 8, 10, 12, 15, 18, 20, 22. 📊"
+    },
+    {
+        "id": "MATH92",
+        "question": "Identify outliers in the data set: 10, 12, 15, 18, 20, 22, 25, 28, 30, 50. 📊"
+    },
+    {
+        "id": "MATH93",
+        "question": "The table shows the number of hours studied (x) and marks obtained (y): (2,45), (4,55), (6,65), (8,75), (10,85). Predict the mark for 5 hours of study. 📊"
+    },
+
+    # ============================================================
+    # PAPER 2: TRIGONOMETRY
+    # ============================================================
+    {
+        "id": "MATH94",
+        "question": "Simplify: sin(90° - θ). 📐"
+    },
+    {
+        "id": "MATH95",
+        "question": "Simplify: cos(90° - θ). 📐"
+    },
+    {
+        "id": "MATH96",
+        "question": "Simplify: sin(180° - θ). 📐"
+    },
+    {
+        "id": "MATH97",
+        "question": "Simplify: cos(180° - θ). 📐"
+    },
+    {
+        "id": "MATH98",
+        "question": "Simplify: tan(180° + θ). 📐"
+    },
+    {
+        "id": "MATH99",
+        "question": "Prove the identity: sin²θ + cos²θ = 1. 📐"
+    },
+    {
+        "id": "MATH100",
+        "question": "Prove the identity: tan²θ + 1 = sec²θ. 📐"
+    },
+    {
+        "id": "MATH101",
+        "question": "Simplify: (sinθ + cosθ)². 📐"
+    },
+    {
+        "id": "MATH102",
+        "question": "Simplify: (sinθ - cosθ)². 📐"
+    },
+    {
+        "id": "MATH103",
+        "question": "Simplify: (1 + tan²θ). 📐"
+    },
+    {
+        "id": "MATH104",
+        "question": "Solve for θ: sinθ = 0.5 (0° ≤ θ ≤ 360°). 📐"
+    },
+    {
+        "id": "MATH105",
+        "question": "Solve for θ: cosθ = -0.866 (0° ≤ θ ≤ 360°). 📐"
+    },
+    {
+        "id": "MATH106",
+        "question": "Solve for θ: tanθ = √3 (0° ≤ θ ≤ 360°). 📐"
+    },
+    {
+        "id": "MATH107",
+        "question": "Solve for θ: 2sin²θ - sinθ - 1 = 0 (0° ≤ θ ≤ 360°). 📐"
+    },
+    {
+        "id": "MATH108",
+        "question": "Prove the identity: sin2θ = 2sinθcosθ. 📐"
+    },
+    {
+        "id": "MATH109",
+        "question": "Prove the identity: cos2θ = cos²θ - sin²θ. 📐"
+    },
+    {
+        "id": "MATH110",
+        "question": "Prove the identity: cos2θ = 2cos²θ - 1. 📐"
+    },
+    {
+        "id": "MATH111",
+        "question": "Prove the identity: cos2θ = 1 - 2sin²θ. 📐"
+    },
+    {
+        "id": "MATH112",
+        "question": "Simplify: sin(α + β). 📐"
+    },
+    {
+        "id": "MATH113",
+        "question": "Simplify: sin(α - β). 📐"
+    },
+    {
+        "id": "MATH114",
+        "question": "Simplify: cos(α + β). 📐"
+    },
+    {
+        "id": "MATH115",
+        "question": "Simplify: cos(α - β). 📐"
+    },
+    {
+        "id": "MATH116",
+        "question": "Simplify: sin75° (using the formula). 📐"
+    },
+    {
+        "id": "MATH117",
+        "question": "Simplify: cos15° (using the formula). 📐"
+    },
+    {
+        "id": "MATH118",
+        "question": "Sketch the graph of y = sinx for 0° ≤ x ≤ 360°. 📈"
+    },
+    {
+        "id": "MATH119",
+        "question": "Sketch the graph of y = cosx for 0° ≤ x ≤ 360°. 📈"
+    },
+    {
+        "id": "MATH120",
+        "question": "Sketch the graph of y = tanx for 0° ≤ x ≤ 360°. 📈"
+    },
+    {
+        "id": "MATH121",
+        "question": "In ΔABC, AB = 8 cm, AC = 10 cm and ∠A = 60°. Calculate the length of BC using the cosine rule. 📐"
+    },
+    {
+        "id": "MATH122",
+        "question": "In ΔABC, ∠A = 40°, ∠B = 70° and side a = 12 cm. Calculate side b using the sine rule. 📐"
+    },
+    {
+        "id": "MATH123",
+        "question": "Calculate the area of ΔABC if AB = 6 cm, AC = 8 cm and ∠A = 45°. 📐"
+    },
+
+    # ============================================================
+    # PAPER 2: ANALYTICAL GEOMETRY
+    # ============================================================
+    {
+        "id": "MATH124",
+        "question": "Calculate the distance between A(2,3) and B(5,7). 📐"
+    },
+    {
+        "id": "MATH125",
+        "question": "Calculate the midpoint of A(2,3) and B(6,9). 📐"
+    },
+    {
+        "id": "MATH126",
+        "question": "Calculate the gradient of the line through A(2,3) and B(5,9). 📐"
+    },
+    {
+        "id": "MATH127",
+        "question": "Determine the equation of the line passing through A(1,2) with gradient 3. 📐"
+    },
+    {
+        "id": "MATH128",
+        "question": "Determine the equation of the line perpendicular to y = 2x + 1 passing through (3,4). 📐"
+    },
+    {
+        "id": "MATH129",
+        "question": "Determine the equation of the circle with centre (2,-3) and radius 5. 📐"
+    },
+    {
+        "id": "MATH130",
+        "question": "Determine the equation of the circle with centre (0,0) and radius 4. 📐"
+    },
+    {
+        "id": "MATH131",
+        "question": "Prove that points A(1,1), B(3,3) and C(5,5) are collinear. 📐"
+    },
+    {
+        "id": "MATH132",
+        "question": "Prove that quadrilateral ABCD with A(1,2), B(4,5), C(7,2), D(4,-1) is a rhombus. 📐"
+    },
+    {
+        "id": "MATH133",
+        "question": "Prove that quadrilateral ABCD with A(1,1), B(4,3), C(6,6), D(3,4) is a parallelogram. 📐"
+    },
+    {
+        "id": "MATH134",
+        "question": "Prove that quadrilateral ABCD with A(0,0), B(3,0), C(5,4), D(2,4) is a rectangle. 📐"
+    },
+
+    # ============================================================
+    # PAPER 2: EUCLIDEAN GEOMETRY
+    # ============================================================
+    {
+        "id": "MATH135",
+        "question": "State: The line drawn from the centre of a circle perpendicular to a chord bisects the chord. 📐"
+    },
+    {
+        "id": "MATH136",
+        "question": "State: The angle subtended by an arc at the centre is double the angle subtended by the same arc at the circumference. 📐"
+    },
+    {
+        "id": "MATH137",
+        "question": "State: Opposite angles of a cyclic quadrilateral are supplementary. 📐"
+    },
+    {
+        "id": "MATH138",
+        "question": "State: The angle between the tangent to a circle and a chord is equal to the angle in the alternate segment. 📐"
+    },
+    {
+        "id": "MATH139",
+        "question": "State: A line drawn parallel to one side of a triangle divides the other two sides proportionally. 📐"
+    },
+    {
+        "id": "MATH140",
+        "question": "State: Equiangular triangles are similar. 📐"
+    },
+    {
+        "id": "MATH141",
+        "question": "Prove the theorem: The angle subtended by an arc at the centre is double the angle subtended by the same arc at the circumference. 📐"
+    },
+    {
+        "id": "MATH142",
+        "question": "Prove the theorem: Opposite angles of a cyclic quadrilateral are supplementary. 📐"
+    },
+    {
+        "id": "MATH143",
+        "question": "Prove the theorem: The angle between the tangent to a circle and a chord is equal to the angle in the alternate segment. 📐"
+    },
+    {
+        "id": "MATH144",
+        "question": "Prove the theorem: A line drawn parallel to one side of a triangle divides the other two sides proportionally. 📐"
+    },
+    {
+        "id": "MATH145",
+        "question": "In the diagram, O is the centre of the circle and AB is a chord. OC ⊥ AB. If OC = 3 cm and AB = 8 cm, calculate the radius of the circle. 📐"
+    },
+    {
+        "id": "MATH146",
+        "question": "In cyclic quadrilateral ABCD, ∠A = 70°. Calculate ∠C. 📐"
+    },
+    {
+        "id": "MATH147",
+        "question": "In cyclic quadrilateral ABCD, ∠B = 110°. Calculate ∠D. 📐"
+    },
+    {
+        "id": "MATH148",
+        "question": "In the diagram, PA and PB are tangents to the circle from point P. If PA = 6 cm, calculate PB. 📐"
+    },
+    {
+        "id": "MATH149",
+        "question": "In ΔABC, DE || BC. If AD = 3 cm, DB = 6 cm and AE = 2 cm, calculate EC. 📐"
+    },
+    {
+        "id": "MATH150",
+        "question": "If two triangles are equiangular, prove that the corresponding sides are in proportion. 📐"
+    },
+    {
+        "id": "MATH151",
+        "question": "State the converse of: A line drawn parallel to one side of a triangle divides the other two sides proportionally. 📐"
+    },
+    {
+        "id": "MATH152",
+        "question": "State the converse of: Opposite angles of a cyclic quadrilateral are supplementary. 📐"
+    },
+    {
+        "id": "MATH153",
+        "question": "State the theorem: The line drawn from the midpoint of one side of a triangle parallel to another side bisects the third side. 📐"
+    },
+    {
+        "id": "MATH154",
+        "question": "State the theorem: The line segment joining the midpoints of two sides of a triangle is parallel to the third side and equal to half its length. 📐"
+    },
+    {
+        "id": "MATH155",
+        "question": "Prove the theorem: The line segment joining the midpoints of two sides of a triangle is parallel to the third side and equal to half its length. 📐"
+    },
+    {
+        "id": "MATH156",
+        "question": "State: Angles in the same segment are equal. 📐"
+    },
+    {
+        "id": "MATH157",
+        "question": "State: Equal chords subtend equal angles at the circumference. 📐"
+    },
+    {
+        "id": "MATH158",
+        "question": "State: The angle in a semi-circle is 90°. 📐"
+    },
+    {
+        "id": "MATH159",
+        "question": "State: The diagonals of a parallelogram bisect each other. 📐"
+    },
+    {
+        "id": "MATH160",
+        "question": "State: The opposite sides of a parallelogram are equal. 📐"
+    },
+    {
+        "id": "MATH161",
+        "question": "State: The opposite angles of a parallelogram are equal. 📐"
+    },
+    {
+        "id": "MATH162",
+        "question": "State: The diagonals of a rhombus bisect at right angles. 📐"
+    },
+    {
+        "id": "MATH163",
+        "question": "State: The diagonals of a rectangle are equal. 📐"
+    },
+    {
+        "id": "MATH164",
+        "question": "State: The diagonals of a kite intersect at right angles. 📐"
+    },
+    {
+        "id": "MATH165",
+        "question": "State: Tangents from a common point to a circle are equal in length. 📐"
+    },
+
+    # ============================================================
+    # PAPER 1: MIXED PROBLEMS
+    # ============================================================
+    {
+        "id": "MATH166",
+        "question": "Solve for x: 2^(x+1) = 32. 🧮"
+    },
+    {
+        "id": "MATH167",
+        "question": "Simplify: log₂(8) + log₂(4). 📐"
+    },
+    {
+        "id": "MATH168",
+        "question": "Given f(x) = x² - 4x + 5. Determine the range of f. 📈"
+    },
+    {
+        "id": "MATH169",
+        "question": "Given f(x) = -x² + 6x - 5. Determine the maximum value. 📈"
+    },
+    {
+        "id": "MATH170",
+        "question": "A geometric sequence has first term 2 and common ratio 3. Determine the 6th term. 🔢"
+    },
+    {
+        "id": "MATH171",
+        "question": "An arithmetic sequence has first term 3 and common difference 4. Determine the sum of the first 15 terms. 📊"
+    },
+    {
+        "id": "MATH172",
+        "question": "Calculate the effective interest rate if the nominal rate is 8% per annum compounded half-yearly. 💰"
+    },
+    {
+        "id": "MATH173",
+        "question": "Calculate the nominal interest rate if the effective rate is 10.25% per annum compounded quarterly. 💰"
+    },
+    {
+        "id": "MATH174",
+        "question": "Two cards are drawn from a deck without replacement. What is the probability of drawing two aces? 🃏"
+    },
+    {
+        "id": "MATH175",
+        "question": "A bag contains 6 red and 4 green marbles. Three marbles are drawn without replacement. What is the probability of drawing 2 red and 1 green? 🎲"
+    }
+]

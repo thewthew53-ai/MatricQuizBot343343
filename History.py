@@ -1,0 +1,913 @@
+Questions = [
+    # ============================================================
+    # PAPER 1: THE COLD WAR - Origins
+    # ============================================================
+    {
+        "id": "HIS1",
+        "question": "Define the term 'Cold War'. ❄️"
+    },
+    {
+        "id": "HIS2",
+        "question": "Explain why a Cold War developed between the USA and the USSR after World War II. 🌍"
+    },
+    {
+        "id": "HIS3",
+        "question": "What was the USA's policy of containment? 🛡️"
+    },
+    {
+        "id": "HIS4",
+        "question": "Explain the purpose of the Truman Doctrine. 📜"
+    },
+    {
+        "id": "HIS5",
+        "question": "Explain the purpose of the Marshall Plan. 💰"
+    },
+    {
+        "id": "HIS6",
+        "question": "What was the Berlin Crisis of 1948-1949? 🏙️"
+    },
+    {
+        "id": "HIS7",
+        "question": "What was the significance of the Berlin Wall? 🧱"
+    },
+    {
+        "id": "HIS8",
+        "question": "Explain the purpose of NATO. 🛡️"
+    },
+    {
+        "id": "HIS9",
+        "question": "Explain the purpose of the Warsaw Pact. 🤝"
+    },
+    {
+        "id": "HIS10",
+        "question": "Who was to blame for the Cold War? Discuss with reference to both the USA and USSR. ⚖️"
+    },
+    {
+        "id": "HIS11",
+        "question": "What was the significance of the installation of Soviet-friendly governments in satellite states? 🇷🇺"
+    },
+    {
+        "id": "HIS12",
+        "question": "Explain the term 'iron curtain'. 🧵"
+    },
+
+    # ============================================================
+    # PAPER 1: EXTENSION OF THE COLD WAR - Vietnam
+    # ============================================================
+    {
+        "id": "HIS13",
+        "question": "What was the Viet Cong? 🇻🇳"
+    },
+    {
+        "id": "HIS14",
+        "question": "Explain the stages of the Vietnam War (1957-1965, 1965-1969, 1969-1975). 📅"
+    },
+    {
+        "id": "HIS15",
+        "question": "Describe the nature of the Vietnamese war against the USA. 🏹"
+    },
+    {
+        "id": "HIS16",
+        "question": "Explain the perspective of the USA on the Vietnam War. 🇺🇸"
+    },
+    {
+        "id": "HIS17",
+        "question": "Explain the perspective of Vietnam on the Vietnam War. 🇻🇳"
+    },
+    {
+        "id": "HIS18",
+        "question": "Why was the Vietnam War considered a global issue? 🌍"
+    },
+    {
+        "id": "HIS19",
+        "question": "Explain the impact of the USA's withdrawal from Vietnam on American political student movements. 🎓"
+    },
+    {
+        "id": "HIS20",
+        "question": "What was the significance of the Tet Offensive? 🎯"
+    },
+    {
+        "id": "HIS21",
+        "question": "Explain the impact of the Vietnam War on US foreign policy. 🌍"
+    },
+
+    # ============================================================
+    # PAPER 1: INDEPENDENT AFRICA - Angola
+    # ============================================================
+    {
+        "id": "HIS22",
+        "question": "Explain the background to colonialism in Angola. 🇦🇴"
+    },
+    {
+        "id": "HIS23",
+        "question": "When did Angola gain independence and from which country? 📅"
+    },
+    {
+        "id": "HIS24",
+        "question": "Explain the outbreak of civil war in Angola in 1974. ⚔️"
+    },
+    {
+        "id": "HIS25",
+        "question": "Explain the role and aims of the MPLA in Angola. 🏛️"
+    },
+    {
+        "id": "HIS26",
+        "question": "Explain the role and aims of the FNLA in Angola. 🏛️"
+    },
+    {
+        "id": "HIS27",
+        "question": "Explain the role and aims of UNITA in Angola. 🏛️"
+    },
+    {
+        "id": "HIS28",
+        "question": "Explain the reasons for and nature of USSR involvement in Angola. 🇷🇺"
+    },
+    {
+        "id": "HIS29",
+        "question": "Explain the reasons for and nature of USA involvement in Angola. 🇺🇸"
+    },
+    {
+        "id": "HIS30",
+        "question": "Explain the reasons for and nature of Cuba's involvement in Angola. 🇨🇺"
+    },
+    {
+        "id": "HIS31",
+        "question": "Explain the reasons for and nature of China's involvement in Angola. 🇨🇳"
+    },
+    {
+        "id": "HIS32",
+        "question": "Explain the reasons for and nature of South Africa's involvement in Angola. 🇿🇦"
+    },
+    {
+        "id": "HIS33",
+        "question": "What was the significance of the Battle of Cuito Cuanavale (1987-1988)? ⚔️"
+    },
+    {
+        "id": "HIS34",
+        "question": "How did the Angolan civil war impact regional stability in Southern Africa? 🌍"
+    },
+
+    # ============================================================
+    # PAPER 1: INDEPENDENT AFRICA - The Congo
+    # ============================================================
+    {
+        "id": "HIS35",
+        "question": "What were the ideas that influenced the Congo's independence movement? 💡"
+    },
+    {
+        "id": "HIS36",
+        "question": "Describe the type of leader that emerged in the Congo after independence. 👨‍💼"
+    },
+    {
+        "id": "HIS37",
+        "question": "Explain the legacies of colonialism in the Congo. 📜"
+    },
+    {
+        "id": "HIS38",
+        "question": "Describe the type of government established in the Congo after independence. 🏛️"
+    },
+    {
+        "id": "HIS39",
+        "question": "Explain the political stability and instability in the Congo. ⚖️"
+    },
+    {
+        "id": "HIS40",
+        "question": "Describe the type of economy established in the Congo after independence. 💰"
+    },
+    {
+        "id": "HIS41",
+        "question": "What were the benefits of independence for the Congo? ✅"
+    },
+    {
+        "id": "HIS42",
+        "question": "Explain the successes and challenges of Africanisation in the Congo. 🌍"
+    },
+    {
+        "id": "HIS43",
+        "question": "Explain the role of Patrice Lumumba in the Congo's independence. 🇨🇩"
+    },
+    {
+        "id": "HIS44",
+        "question": "Explain the role of Mobutu Sese Seko in the Congo. 🇨🇩"
+    },
+
+    # ============================================================
+    # PAPER 1: CIVIL SOCIETY PROTESTS - US Civil Rights Movement
+    # ============================================================
+    {
+        "id": "HIS45",
+        "question": "What were the reasons for the Civil Rights Movement in the USA? ✊"
+    },
+    {
+        "id": "HIS46",
+        "question": "Explain the role of Martin Luther King Jr. in the Civil Rights Movement. 👨‍🏫"
+    },
+    {
+        "id": "HIS47",
+        "question": "Explain the influence of Gandhi's passive resistance on Martin Luther King Jr. 🕊️"
+    },
+    {
+        "id": "HIS48",
+        "question": "Explain the significance of the Montgomery Bus Boycott. 🚌"
+    },
+    {
+        "id": "HIS49",
+        "question": "Explain the significance of the Sit-ins. 🪑"
+    },
+    {
+        "id": "HIS50",
+        "question": "Explain the significance of the Freedom Riders. 🚌"
+    },
+    {
+        "id": "HIS51",
+        "question": "Explain the significance of the Birmingham Campaign. 🏙️"
+    },
+    {
+        "id": "HIS52",
+        "question": "Explain the significance of the March to Lincoln Memorial (1963). 🗽"
+    },
+    {
+        "id": "HIS53",
+        "question": "Explain the significance of Freedom Summer (1964). ☀️"
+    },
+    {
+        "id": "HIS54",
+        "question": "Explain the significance of the Selma-Montgomery marches (1965). 🚶"
+    },
+    {
+        "id": "HIS55",
+        "question": "Explain the case study of school desegregation at Little Rock, Arkansas (1957). 🏫"
+    },
+    {
+        "id": "HIS56",
+        "question": "What were the short-term gains of the Civil Rights Movement? ✅"
+    },
+    {
+        "id": "HIS57",
+        "question": "What were the long-term gains of the Civil Rights Movement? ✅"
+    },
+
+    # ============================================================
+    # PAPER 1: CIVIL SOCIETY PROTESTS - Black Power Movement
+    # ============================================================
+    {
+        "id": "HIS58",
+        "question": "What were the reasons for the Black Power Movement? ✊"
+    },
+    {
+        "id": "HIS59",
+        "question": "Explain the formation of the Black Panther Party. 🐆"
+    },
+    {
+        "id": "HIS60",
+        "question": "Explain the role of Malcolm X in the Black Power Movement. 👨‍🏫"
+    },
+    {
+        "id": "HIS61",
+        "question": "Explain the role of Stokely Carmichael in the Black Power Movement. 👨‍🏫"
+    },
+    {
+        "id": "HIS62",
+        "question": "Explain the role of Huey Newton in the Black Power Movement. 👨‍🏫"
+    },
+    {
+        "id": "HIS63",
+        "question": "What were the short-term gains of the Black Power Movement? ✅"
+    },
+    {
+        "id": "HIS64",
+        "question": "What were the long-term gains of the Black Power Movement? ✅"
+    },
+
+    # ============================================================
+    # PAPER 2: CIVIL RESISTANCE - Apartheid in the 1980s
+    # ============================================================
+    {
+        "id": "HIS65",
+        "question": "Explain the government's attempts to reform apartheid in the 1980s. 🏛️"
+    },
+    {
+        "id": "HIS66",
+        "question": "Explain the purpose of the 1982 Urban Bantu Authorities Act. 📜"
+    },
+    {
+        "id": "HIS67",
+        "question": "Explain the purpose of the tri-cameral system. 🏛️"
+    },
+    {
+        "id": "HIS68",
+        "question": "What was the internal resistance to apartheid reforms? ✊"
+    },
+    {
+        "id": "HIS69",
+        "question": "Explain the growing power of the Trade Union Movement from 1973. 👷"
+    },
+    {
+        "id": "HIS70",
+        "question": "Explain the response to Botha's 'reforms' - labour's 'rolling mass action'. ✊"
+    },
+    {
+        "id": "HIS71",
+        "question": "Explain the role of civics in the resistance to apartheid. 🏘️"
+    },
+    {
+        "id": "HIS72",
+        "question": "Explain the role of the UDF in the resistance to apartheid. ✊"
+    },
+    {
+        "id": "HIS73",
+        "question": "Explain the role of the Mass Democratic Movement (MDM). ✊"
+    },
+    {
+        "id": "HIS74",
+        "question": "Explain the role of the End Conscription Campaign. ✊"
+    },
+    {
+        "id": "HIS75",
+        "question": "Explain the role of the Black Sash in the resistance to apartheid. ✊"
+    },
+    {
+        "id": "HIS76",
+        "question": "What was the significance of the 1980s in the struggle against apartheid? 🇿🇦"
+    },
+
+    # ============================================================
+    # PAPER 2: CIVIL RESISTANCE - Black Consciousness
+    # ============================================================
+    {
+        "id": "HIS77",
+        "question": "Explain the nature and aims of Black Consciousness. ✊"
+    },
+    {
+        "id": "HIS78",
+        "question": "Explain the role of Bantu Stephen Biko. 👨‍🏫"
+    },
+    {
+        "id": "HIS79",
+        "question": "What was the Black Consciousness Movement (BCM)? ✊"
+    },
+    {
+        "id": "HIS80",
+        "question": "Explain the challenge posed by the ideas of Black Consciousness to the apartheid state. ⚠️"
+    },
+    {
+        "id": "HIS81",
+        "question": "Explain the influence of the BCM on the 1976 Soweto uprising. 🏙️"
+    },
+    {
+        "id": "HIS82",
+        "question": "What was the legacy of Black Consciousness on South African politics? 🇿🇦"
+    },
+
+    # ============================================================
+    # PAPER 2: COMING OF DEMOCRACY - TRC
+    # ============================================================
+    {
+        "id": "HIS83",
+        "question": "What were the reasons for the establishment of the Truth and Reconciliation Commission (TRC)? ⚖️"
+    },
+    {
+        "id": "HIS84",
+        "question": "Explain the formation of the TRC sub-committees. 📋"
+    },
+    {
+        "id": "HIS85",
+        "question": "Distinguish between retributive justice and restorative justice. ⚖️"
+    },
+    {
+        "id": "HIS86",
+        "question": "What were the positive aspects of the TRC? ✅"
+    },
+    {
+        "id": "HIS87",
+        "question": "Explain the amnesty provisions and problems with amnesty. 📜"
+    },
+    {
+        "id": "HIS88",
+        "question": "Why did the TRC focus on gross human rights violations of the 1980s? ⚖️"
+    },
+    {
+        "id": "HIS89",
+        "question": "Explain the issue of reparations in the TRC process. 💰"
+    },
+    {
+        "id": "HIS90",
+        "question": "How did political parties respond to the TRC and its final report? 🏛️"
+    },
+    {
+        "id": "HIS91",
+        "question": "Discuss case studies of victims and perpetrators from the TRC. 👤"
+    },
+
+    # ============================================================
+    # PAPER 2: COMING OF DEMOCRACY - Negotiated Settlement
+    # ============================================================
+    {
+        "id": "HIS92",
+        "question": "Explain the beginning of negotiations from 1989 to 1991. 🤝"
+    },
+    {
+        "id": "HIS93",
+        "question": "Explain the breakdown of negotiations. ❌"
+    },
+    {
+        "id": "HIS94",
+        "question": "Explain how the multi-party negotiation process resumed. 🔄"
+    },
+    {
+        "id": "HIS95",
+        "question": "Explain the ongoing violence and attempts to derail negotiations. 💥"
+    },
+    {
+        "id": "HIS96",
+        "question": "Explain the final road to democracy in 1994. 🗳️"
+    },
+    {
+        "id": "HIS97",
+        "question": "Explain the significance of the 27 April 1994 election. 🇿🇦"
+    },
+    {
+        "id": "HIS98",
+        "question": "Explain the purpose of the Government of National Unity (GNU). 🤝"
+    },
+    {
+        "id": "HIS99",
+        "question": "Explain the role of Nelson Mandela in the negotiated settlement. 👨‍🏫"
+    },
+    {
+        "id": "HIS100",
+        "question": "Explain the role of FW de Klerk in the negotiated settlement. 👨‍🏫"
+    },
+
+    # ============================================================
+    # PAPER 2: END OF THE COLD WAR - New World Order
+    # ============================================================
+    {
+        "id": "HIS101",
+        "question": "Define the term 'globalisation'. 🌍"
+    },
+    {
+        "id": "HIS102",
+        "question": "Explain the balance of power after the end of the Cold War. ⚖️"
+    },
+    {
+        "id": "HIS103",
+        "question": "What was the impact of the end of the Cold War on Africa? 🌍"
+    },
+    {
+        "id": "HIS104",
+        "question": "Explain the dominance of global capitalism. 💰"
+    },
+    {
+        "id": "HIS105",
+        "question": "Explain the concept of 'emerging economies' and different forms of capitalism. 📈"
+    },
+    {
+        "id": "HIS106",
+        "question": "What is BRICS and what is its significance? 🌍"
+    },
+    {
+        "id": "HIS107",
+        "question": "Explain responses to globalisation. 🌍"
+    },
+
+    # ============================================================
+    # PAPER 2: END OF THE COLD WAR - Gorbachev's Reforms
+    # ============================================================
+    {
+        "id": "HIS108",
+        "question": "Explain Gorbachev's reforms in the Soviet Union. 🇷🇺"
+    },
+    {
+        "id": "HIS109",
+        "question": "What was perestroika? 🔄"
+    },
+    {
+        "id": "HIS110",
+        "question": "What was glasnost? 🗣️"
+    },
+    {
+        "id": "HIS111",
+        "question": "Explain the events in Poland and their significance on the Soviet Union's influence in Eastern Europe. 🇵🇱"
+    },
+    {
+        "id": "HIS112",
+        "question": "Explain the events in Germany and the fall of the Berlin Wall. 🇩🇪"
+    },
+    {
+        "id": "HIS113",
+        "question": "Explain the disintegration of the Soviet Union. 🇷🇺"
+    },
+    {
+        "id": "HIS114",
+        "question": "Explain the impact of the collapse of the Soviet Union on South Africa. 🇿🇦"
+    },
+
+    # ============================================================
+    # SOURCE-BASED QUESTIONS - Skills and Terminology
+    # ============================================================
+    {
+        "id": "HIS115",
+        "question": "Define the term 'source' in the context of historical study. 📚"
+    },
+    {
+        "id": "HIS116",
+        "question": "What is the difference between a primary source and a secondary source? 📚"
+    },
+    {
+        "id": "HIS117",
+        "question": "Define the term 'bias' in the context of historical sources. ⚖️"
+    },
+    {
+        "id": "HIS118",
+        "question": "Define the term 'reliability' when assessing a historical source. 📊"
+    },
+    {
+        "id": "HIS119",
+        "question": "Define the term 'usefulness' when assessing a historical source. 📊"
+    },
+    {
+        "id": "HIS120",
+        "question": "Explain why a historian might question the reliability of a source. 🔍"
+    },
+    {
+        "id": "HIS121",
+        "question": "Explain how a historian would determine the usefulness of a source. 🔍"
+    },
+    {
+        "id": "HIS122",
+        "question": "Define the term 'propaganda' in the context of historical sources. 📢"
+    },
+    {
+        "id": "HIS123",
+        "question": "What is a cartoonist's purpose when creating a political cartoon? 🖼️"
+    },
+    {
+        "id": "HIS124",
+        "question": "Explain the term 'perspective' in historical analysis. 👀"
+    },
+
+    # ============================================================
+    # ESSAY STRUCTURE AND SKILLS
+    # ============================================================
+    {
+        "id": "HIS125",
+        "question": "What is the purpose of an introduction in a history essay? 📝"
+    },
+    {
+        "id": "HIS126",
+        "question": "What is the purpose of a conclusion in a history essay? 📝"
+    },
+    {
+        "id": "HIS127",
+        "question": "Explain the PEEL structure for writing history essays. 📝"
+    },
+    {
+        "id": "HIS128",
+        "question": "What is a 'line of argument' in a history essay? 📝"
+    },
+    {
+        "id": "HIS129",
+        "question": "Explain how to sustain a line of argument in a history essay. 📝"
+    },
+
+    # ============================================================
+    # COLD WAR - Additional Content
+    # ============================================================
+    {
+        "id": "HIS130",
+        "question": "Explain the role of the United Nations during the Cold War. 🌍"
+    },
+    {
+        "id": "HIS131",
+        "question": "Explain the concept of 'spheres of interest' after World War II. 🌍"
+    },
+    {
+        "id": "HIS132",
+        "question": "What was the significance of the Yalta Conference? 📅"
+    },
+    {
+        "id": "HIS133",
+        "question": "What was the significance of the Potsdam Conference? 📅"
+    },
+    {
+        "id": "HIS134",
+        "question": "Explain the impact of the arms race on the Cold War. 💣"
+    },
+    {
+        "id": "HIS135",
+        "question": "Explain the impact of the space race on the Cold War. 🚀"
+    },
+    {
+        "id": "HIS136",
+        "question": "Explain the significance of the Cuban Missile Crisis (1962). 🇨🇺"
+    },
+
+    # ============================================================
+    # VIETNAM WAR - Additional Content
+    # ============================================================
+    {
+        "id": "HIS137",
+        "question": "Explain the role of the Viet Minh in Vietnamese history. 🇻🇳"
+    },
+    {
+        "id": "HIS138",
+        "question": "Explain the significance of the Geneva Accords (1954). 📅"
+    },
+    {
+        "id": "HIS139",
+        "question": "Explain the role of Ho Chi Minh in the Vietnam War. 👨‍🏫"
+    },
+    {
+        "id": "HIS140",
+        "question": "Explain the significance of the My Lai Massacre. 💔"
+    },
+    {
+        "id": "HIS141",
+        "question": "Explain the impact of the Vietnam War on US society. 🇺🇸"
+    },
+    {
+        "id": "HIS142",
+        "question": "Explain the significance of the Pentagon Papers. 📄"
+    },
+
+    # ============================================================
+    # ANGOLA - Additional Content
+    # ============================================================
+    {
+        "id": "HIS143",
+        "question": "Explain the role of Jonás Savimbi in Angola. 👨‍🏫"
+    },
+    {
+        "id": "HIS144",
+        "question": "Explain the role of Agostinho Neto in Angola. 👨‍🏫"
+    },
+    {
+        "id": "HIS145",
+        "question": "Explain the significance of the Alvor Agreement (1975). 📅"
+    },
+    {
+        "id": "HIS146",
+        "question": "Explain the impact of the Angolan civil war on the international community. 🌍"
+    },
+
+    # ============================================================
+    # THE CONGO - Additional Content
+    # ============================================================
+    {
+        "id": "HIS147",
+        "question": "Explain the role of the United Nations in the Congo crisis. 🌍"
+    },
+    {
+        "id": "HIS148",
+        "question": "Explain the significance of the Congo crisis in the context of the Cold War. ❄️"
+    },
+    {
+        "id": "HIS149",
+        "question": "Explain the secession of Katanga and its significance. 🇨🇩"
+    },
+
+    # ============================================================
+    # CIVIL RIGHTS MOVEMENT - Additional Content
+    # ============================================================
+    {
+        "id": "HIS150",
+        "question": "Explain the role of Rosa Parks in the Civil Rights Movement. 👩"
+    },
+    {
+        "id": "HIS151",
+        "question": "Explain the role of the NAACP in the Civil Rights Movement. 🏛️"
+    },
+    {
+        "id": "HIS152",
+        "question": "Explain the significance of the Civil Rights Act of 1964. 📜"
+    },
+    {
+        "id": "HIS153",
+        "question": "Explain the significance of the Voting Rights Act of 1965. 📜"
+    },
+    {
+        "id": "HIS154",
+        "question": "Explain the legacy of Martin Luther King Jr. 👨‍🏫"
+    },
+
+    # ============================================================
+    # BLACK POWER MOVEMENT - Additional Content
+    # ============================================================
+    {
+        "id": "HIS155",
+        "question": "Explain the meaning of the slogan 'Black Power'. ✊"
+    },
+    {
+        "id": "HIS156",
+        "question": "Explain the role of the Nation of Islam in the Black Power Movement. 🕌"
+    },
+    {
+        "id": "HIS157",
+        "question": "Explain the significance of the assassination of Malcolm X. 💔"
+    },
+
+    # ============================================================
+    # SOUTH AFRICA - Civil Resistance (Additional)
+    # ============================================================
+    {
+        "id": "HIS158",
+        "question": "Explain the role of the ANC in the resistance during the 1980s. ✊"
+    },
+    {
+        "id": "HIS159",
+        "question": "Explain the role of the PAC in the resistance during the 1980s. ✊"
+    },
+    {
+        "id": "HIS160",
+        "question": "Explain the significance of the State of Emergency in the 1980s. ⚠️"
+    },
+    {
+        "id": "HIS161",
+        "question": "Explain the role of the United Democratic Front (UDF) in the 1980s. ✊"
+    },
+    {
+        "id": "HIS162",
+        "question": "Explain the significance of the Vaal Uprising (1984). 💥"
+    },
+    {
+        "id": "HIS163",
+        "question": "Explain the significance of the township revolts of the 1980s. 🏙️"
+    },
+
+    # ============================================================
+    # SOUTH AFRICA - Black Consciousness (Additional)
+    # ============================================================
+    {
+        "id": "HIS164",
+        "question": "Explain the significance of the SASO (South African Students' Organisation). 🎓"
+    },
+    {
+        "id": "HIS165",
+        "question": "Explain the significance of the death of Steve Biko. 💔"
+    },
+    {
+        "id": "HIS166",
+        "question": "Explain the legacy of the Soweto Uprising of 1976. 🏙️"
+    },
+
+    # ============================================================
+    # SOUTH AFRICA - TRC (Additional)
+    # ============================================================
+    {
+        "id": "HIS167",
+        "question": "Explain the significance of the TRC's final report. 📄"
+    },
+    {
+        "id": "HIS168",
+        "question": "Explain the role of Desmond Tutu in the TRC. 👨‍🏫"
+    },
+    {
+        "id": "HIS169",
+        "question": "Explain the criticism of the TRC's amnesty provisions. ⚠️"
+    },
+    {
+        "id": "HIS170",
+        "question": "Explain the debate around retributive vs restorative justice in South Africa. ⚖️"
+    },
+
+    # ============================================================
+    # SOUTH AFRICA - Negotiated Settlement (Additional)
+    # ============================================================
+    {
+        "id": "HIS171",
+        "question": "Explain the significance of the Groote Schuur Minute (1990). 📄"
+    },
+    {
+        "id": "HIS172",
+        "question": "Explain the significance of the Pretoria Minute (1990). 📄"
+    },
+    {
+        "id": "HIS173",
+        "question": "Explain the significance of the CODESA negotiations. 🤝"
+    },
+    {
+        "id": "HIS174",
+        "question": "Explain the significance of the Record of Understanding (1992). 📄"
+    },
+    {
+        "id": "HIS175",
+        "question": "Explain the significance of the Boipatong Massacre and its impact on negotiations. 💥"
+    },
+    {
+        "id": "HIS176",
+        "question": "Explain the significance of the assassination of Chris Hani. 💔"
+    },
+    {
+        "id": "HIS177",
+        "question": "Explain the role of the COSATU in the transition to democracy. 👷"
+    },
+
+    # ============================================================
+    # END OF THE COLD WAR (Additional)
+    # ============================================================
+    {
+        "id": "HIS178",
+        "question": "Explain the significance of the fall of the Berlin Wall as a symbol of the end of the Cold War. 🧱"
+    },
+    {
+        "id": "HIS179",
+        "question": "Explain the significance of the Velvet Revolution in Czechoslovakia. 🌍"
+    },
+    {
+        "id": "HIS180",
+        "question": "Explain the significance of the collapse of the Berlin Wall for German reunification. 🇩🇪"
+    },
+    {
+        "id": "HIS181",
+        "question": "Explain the impact of the end of the Cold War on the African National Congress (ANC). 🌍"
+    },
+    {
+        "id": "HIS182",
+        "question": "Explain the impact of the end of the Cold War on the South African government. 🇿🇦"
+    },
+
+    # ============================================================
+    # GLOBALISATION AND NEW WORLD ORDER (Additional)
+    # ============================================================
+    {
+        "id": "HIS183",
+        "question": "Explain the role of the World Trade Organization (WTO) in globalisation. 🌍"
+    },
+    {
+        "id": "HIS184",
+        "question": "Explain the role of the International Monetary Fund (IMF) in globalisation. 🌍"
+    },
+    {
+        "id": "HIS185",
+        "question": "Explain the role of the World Bank in globalisation. 🌍"
+    },
+    {
+        "id": "HIS186",
+        "question": "Explain the advantages of globalisation. ✅"
+    },
+    {
+        "id": "HIS187",
+        "question": "Explain the disadvantages of globalisation. ❌"
+    },
+    {
+        "id": "HIS188",
+        "question": "Explain the concept of 'anti-globalisation' movements. ✊"
+    },
+
+    # ============================================================
+    # SOURCE-BASED ANALYSIS QUESTIONS
+    # ============================================================
+    {
+        "id": "HIS189",
+        "question": "What message does a political cartoon convey about the Cold War? 🖼️"
+    },
+    {
+        "id": "HIS190",
+        "question": "Explain why a historian would consider a particular source useful when studying the Vietnam War. 📚"
+    },
+    {
+        "id": "HIS191",
+        "question": "Compare the evidence in two sources and explain how you would account for the differences. 🔍"
+    },
+    {
+        "id": "HIS192",
+        "question": "Comment on the limitations of a source for a historian studying the TRC. 📚"
+    },
+    {
+        "id": "HIS193",
+        "question": "Explain why a historian might question the reliability of a source about the Civil Rights Movement. 🔍"
+    },
+    {
+        "id": "HIS194",
+        "question": "What are the strengths of a particular source for a historian studying apartheid? ✅"
+    },
+    {
+        "id": "HIS195",
+        "question": "Explain the bias evident in a source about the Angolan civil war. ⚖️"
+    },
+
+    # ============================================================
+    # ESSAY PROMTS (Full Essay Questions)
+    # ============================================================
+    {
+        "id": "HIS196",
+        "question": "Critically discuss the origins of the Cold War and explain who was to blame. ❄️"
+    },
+    {
+        "id": "HIS197",
+        "question": "Explain to what extent the Vietnam War was a turning point in US foreign policy. 🇺🇸"
+    },
+    {
+        "id": "HIS198",
+        "question": "Evaluate the significance of the Battle of Cuito Cuanavale in the context of the Cold War in Africa. ⚔️"
+    },
+    {
+        "id": "HIS199",
+        "question": "Assess the impact of the Black Consciousness Movement on the struggle against apartheid. ✊"
+    },
+    {
+        "id": "HIS200",
+        "question": "Critically discuss the successes and failures of the Truth and Reconciliation Commission in South Africa. ⚖️"
+    }
+]

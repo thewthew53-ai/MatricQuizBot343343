@@ -1,0 +1,1289 @@
+Questions = [
+    # ============================================================
+    # PAPER 1: PHYSICS - Newton's Laws
+    # ============================================================
+    {
+        "id": "PHY1",
+        "question": "Define normal force. 📐"
+    },
+    {
+        "id": "PHY2",
+        "question": "Define frictional force. 🛑"
+    },
+    {
+        "id": "PHY3",
+        "question": "Define static frictional force. 🛑"
+    },
+    {
+        "id": "PHY4",
+        "question": "Define kinetic frictional force. 🛑"
+    },
+    {
+        "id": "PHY5",
+        "question": "State the three properties of a frictional force. 📋"
+    },
+    {
+        "id": "PHY6",
+        "question": "A 5 kg block is pulled across a horizontal surface with a force of 20 N. The coefficient of kinetic friction is 0.3. Calculate the kinetic frictional force. (g = 9.8 m·s⁻²) 🧮"
+    },
+    {
+        "id": "PHY7",
+        "question": "A 10 kg box is resting on a horizontal surface. The coefficient of static friction is 0.4. Calculate the maximum static frictional force. 📦"
+    },
+    {
+        "id": "PHY8",
+        "question": "Define the term 'free-body diagram'. ✏️"
+    },
+    {
+        "id": "PHY9",
+        "question": "State Newton's first law of motion. 🧠"
+    },
+    {
+        "id": "PHY10",
+        "question": "Explain why it is important to wear seatbelts using Newton's first law of motion. 🚗"
+    },
+    {
+        "id": "PHY11",
+        "question": "State Newton's second law of motion. 🧠"
+    },
+    {
+        "id": "PHY12",
+        "question": "A 2 kg object accelerates at 4 m·s⁻². Calculate the net force acting on it. ⚡"
+    },
+    {
+        "id": "PHY13",
+        "question": "A 500 g mass is suspended from a string. Calculate the tension in the string. (g = 9.8 m·s⁻²) 🧵"
+    },
+    {
+        "id": "PHY14",
+        "question": "State Newton's third law of motion. 🧠"
+    },
+    {
+        "id": "PHY15",
+        "question": "Identify the action-reaction pair when a book rests on a table. 📚"
+    },
+    {
+        "id": "PHY16",
+        "question": "A 3 kg block is pulled up a frictionless inclined plane at 30° to the horizontal with a force of 25 N. Calculate the acceleration of the block. ⛰️"
+    },
+    {
+        "id": "PHY17",
+        "question": "State Newton's Law of Universal Gravitation. 🌍"
+    },
+    {
+        "id": "PHY18",
+        "question": "Two masses of 5 kg and 10 kg are separated by a distance of 2 m. Calculate the gravitational force between them. (G = 6.67 × 10⁻¹¹ N·m²·kg⁻²) 🌌"
+    },
+    {
+        "id": "PHY19",
+        "question": "Describe weight as the gravitational force the Earth exerts on an object. ⚖️"
+    },
+    {
+        "id": "PHY20",
+        "question": "Calculate the weight of a 70 kg person on Earth. (g = 9.8 m·s⁻²) 👤"
+    },
+    {
+        "id": "PHY21",
+        "question": "Distinguish between mass and weight. ⚖️"
+    },
+    {
+        "id": "PHY22",
+        "question": "Explain weightlessness. 🚀"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Momentum and Impulse
+    # ============================================================
+    {
+        "id": "PHY23",
+        "question": "Define momentum. 🏃"
+    },
+    {
+        "id": "PHY24",
+        "question": "Calculate the momentum of a 1 200 kg car moving at 25 m·s⁻¹. 🚗"
+    },
+    {
+        "id": "PHY25",
+        "question": "State Newton's second law in terms of momentum. 🧠"
+    },
+    {
+        "id": "PHY26",
+        "question": "Define impulse. ⚡"
+    },
+    {
+        "id": "PHY27",
+        "question": "A 0.5 kg ball is moving at 10 m·s⁻¹. It is hit with a force of 20 N for 0.2 s. Calculate the change in momentum. ⚽"
+    },
+    {
+        "id": "PHY28",
+        "question": "Explain how airbags reduce injuries using the concept of impulse. 🚗💨"
+    },
+    {
+        "id": "PHY29",
+        "question": "What is an isolated system? 🔒"
+    },
+    {
+        "id": "PHY30",
+        "question": "State the principle of conservation of linear momentum. 📜"
+    },
+    {
+        "id": "PHY31",
+        "question": "A 4 kg trolley moving at 3 m·s⁻¹ collides with a stationary 2 kg trolley. After the collision, the 4 kg trolley moves at 1 m·s⁻¹. Calculate the velocity of the 2 kg trolley after the collision. 🛒"
+    },
+    {
+        "id": "PHY32",
+        "question": "Distinguish between elastic and inelastic collisions. 💥"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Vertical Projectile Motion
+    # ============================================================
+    {
+        "id": "PHY33",
+        "question": "Define a projectile. 🎯"
+    },
+    {
+        "id": "PHY34",
+        "question": "Define free fall. 🪂"
+    },
+    {
+        "id": "PHY35",
+        "question": "A ball is dropped from a height of 45 m. Calculate the time it takes to reach the ground. (g = 9.8 m·s⁻²) 🏀"
+    },
+    {
+        "id": "PHY36",
+        "question": "A stone is thrown vertically upwards with a velocity of 20 m·s⁻¹. Calculate the maximum height reached. (g = 9.8 m·s⁻²) 🪨"
+    },
+    {
+        "id": "PHY37",
+        "question": "A ball is thrown vertically upwards at 15 m·s⁻¹. Calculate the time taken to return to its starting point. ⏱️"
+    },
+    {
+        "id": "PHY38",
+        "question": "Sketch a velocity versus time graph for a ball thrown vertically upwards and returning to the ground. 📈"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Work, Energy and Power
+    # ============================================================
+    {
+        "id": "PHY39",
+        "question": "Define work done by a constant force. 🔧"
+    },
+    {
+        "id": "PHY40",
+        "question": "A force of 50 N is applied to push a box 4 m across a horizontal surface. Calculate the work done. 📦"
+    },
+    {
+        "id": "PHY41",
+        "question": "State the work-energy theorem. 📜"
+    },
+    {
+        "id": "PHY42",
+        "question": "A 2 kg object moving at 6 m·s⁻¹ slows down to 2 m·s⁻¹. Calculate the work done on the object. 🔄"
+    },
+    {
+        "id": "PHY43",
+        "question": "Define a conservative force and give an example. 🔄"
+    },
+    {
+        "id": "PHY44",
+        "question": "Define a non-conservative force and give an example. 🔄"
+    },
+    {
+        "id": "PHY45",
+        "question": "State the principle of conservation of mechanical energy. 📜"
+    },
+    {
+        "id": "PHY46",
+        "question": "A 0.5 kg ball is dropped from a height of 10 m. Calculate its velocity just before it hits the ground using conservation of energy. ⚽"
+    },
+    {
+        "id": "PHY47",
+        "question": "Define power. 💡"
+    },
+    {
+        "id": "PHY48",
+        "question": "A motor does 2 000 J of work in 5 seconds. Calculate the power output. ⚙️"
+    },
+    {
+        "id": "PHY49",
+        "question": "A pump lifts 500 kg of water through a height of 10 m in 20 s. Calculate the power output of the pump. (g = 9.8 m·s⁻²) 🚰"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Doppler Effect
+    # ============================================================
+    {
+        "id": "PHY50",
+        "question": "State the Doppler effect. 📡"
+    },
+    {
+        "id": "PHY51",
+        "question": "A siren of frequency 500 Hz moves towards a stationary observer at 30 m·s⁻¹. Calculate the frequency heard by the observer. (Speed of sound = 340 m·s⁻¹) 🚨"
+    },
+    {
+        "id": "PHY52",
+        "question": "Explain red shift and how it provides evidence for the expanding universe. 🔴🌌"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Electrostatics
+    # ============================================================
+    {
+        "id": "PHY53",
+        "question": "State Coulomb's law. ⚡"
+    },
+    {
+        "id": "PHY54",
+        "question": "Two charges of +3 µC and -4 µC are separated by a distance of 0.2 m. Calculate the electrostatic force between them. (k = 9.0 × 10⁹ N·m²·C⁻²) ⚡"
+    },
+    {
+        "id": "PHY55",
+        "question": "Define an electric field. ⚡"
+    },
+    {
+        "id": "PHY56",
+        "question": "Draw electric field lines for a positive point charge. ✏️"
+    },
+    {
+        "id": "PHY57",
+        "question": "Define electric field strength at a point. ⚡"
+    },
+    {
+        "id": "PHY58",
+        "question": "A charge of 2 µC experiences a force of 0.5 N in an electric field. Calculate the electric field strength. ⚡"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Electric Circuits
+    # ============================================================
+    {
+        "id": "PHY59",
+        "question": "State Ohm's law in words. ⚡"
+    },
+    {
+        "id": "PHY60",
+        "question": "Calculate the resistance of a conductor if a current of 2 A flows when a potential difference of 12 V is applied. 🔌"
+    },
+    {
+        "id": "PHY61",
+        "question": "State the difference between ohmic and non-ohmic conductors. ⚡"
+    },
+    {
+        "id": "PHY62",
+        "question": "Define power in an electrical circuit. 💡"
+    },
+    {
+        "id": "PHY63",
+        "question": "A 60 W light bulb is connected to a 240 V supply. Calculate the current flowing through it. 💡"
+    },
+    {
+        "id": "PHY64",
+        "question": "Calculate the energy consumed by a 100 W bulb left on for 5 hours. (Give your answer in kWh) 💡"
+    },
+    {
+        "id": "PHY65",
+        "question": "Define emf of a battery. 🔋"
+    },
+    {
+        "id": "PHY66",
+        "question": "A battery has an emf of 12 V and an internal resistance of 0.5 Ω. It is connected to a 2.5 Ω resistor. Calculate the current in the circuit. 🔋"
+    },
+    {
+        "id": "PHY67",
+        "question": "Calculate the cost of running a 2 kW heater for 8 hours if electricity costs R2.50 per kWh. 💰"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Electrodynamics
+    # ============================================================
+    {
+        "id": "PHY68",
+        "question": "State the energy conversion in a generator. ⚡"
+    },
+    {
+        "id": "PHY69",
+        "question": "Explain how a generator works using the principle of electromagnetic induction. 🔄"
+    },
+    {
+        "id": "PHY70",
+        "question": "State the energy conversion in a motor. ⚡"
+    },
+    {
+        "id": "PHY71",
+        "question": "Explain the motor effect. 🔄"
+    },
+    {
+        "id": "PHY72",
+        "question": "State the advantages of alternating current (AC) over direct current (DC). ⚡"
+    },
+    {
+        "id": "PHY73",
+        "question": "Define rms potential difference. ⚡"
+    },
+    {
+        "id": "PHY74",
+        "question": "An AC circuit has a maximum voltage of 340 V. Calculate the rms voltage. ⚡"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Photoelectric Effect
+    # ============================================================
+    {
+        "id": "PHY75",
+        "question": "Describe the photoelectric effect. 📸"
+    },
+    {
+        "id": "PHY76",
+        "question": "Define threshold frequency. 📸"
+    },
+    {
+        "id": "PHY77",
+        "question": "Define work function. 📸"
+    },
+    {
+        "id": "PHY78",
+        "question": "A metal has a work function of 4.0 eV. Calculate the threshold frequency. (h = 6.63 × 10⁻³⁴ J·s, 1 eV = 1.6 × 10⁻¹⁹ J) 📸"
+    },
+    {
+        "id": "PHY79",
+        "question": "Light of frequency 8.0 × 10¹⁴ Hz is incident on a metal surface with a work function of 3.0 eV. Calculate the maximum kinetic energy of the emitted electrons. 📸"
+    },
+    {
+        "id": "PHY80",
+        "question": "Explain the effect of intensity on the photoelectric effect. 📸"
+    },
+    {
+        "id": "PHY81",
+        "question": "Explain the effect of frequency on the photoelectric effect. 📸"
+    },
+    {
+        "id": "PHY82",
+        "question": "What does the photoelectric effect demonstrate about the nature of light? 📸"
+    },
+    {
+        "id": "PHY83",
+        "question": "Explain the formation of atomic absorption and emission spectra. 🌈"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Representing Chemical Change
+    # ============================================================
+    {
+        "id": "CHEM1",
+        "question": "Write and balance the equation for the reaction between magnesium and oxygen to form magnesium oxide. ⚗️"
+    },
+    {
+        "id": "CHEM2",
+        "question": "Interpret a balanced chemical equation in terms of conservation of atoms and mass. ⚗️"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Quantitative Aspects
+    # ============================================================
+    {
+        "id": "CHEM3",
+        "question": "What volume does 1 mole of any gas occupy at STP? 📐"
+    },
+    {
+        "id": "CHEM4",
+        "question": "Calculate the molar concentration of a solution containing 0.5 moles of NaCl dissolved in 250 cm³ of water. 🧪"
+    },
+    {
+        "id": "CHEM5",
+        "question": "Determine the empirical formula of a compound that contains 40% carbon, 6.67% hydrogen and 53.33% oxygen. 🧪"
+    },
+    {
+        "id": "CHEM6",
+        "question": "A sample of calcium carbonate has a mass of 20 g. After heating, 11 g of calcium oxide is obtained. Calculate the percentage purity of the calcium carbonate sample. 🧪"
+    },
+    {
+        "id": "CHEM7",
+        "question": "In the reaction 2Mg + O₂ → 2MgO, calculate the mass of magnesium oxide produced when 24 g of magnesium reacts with excess oxygen. (Mg = 24, O = 16) 🧪"
+    },
+    {
+        "id": "CHEM8",
+        "question": "What is a limiting reagent in a chemical reaction? 🧪"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Intermolecular Forces
+    # ============================================================
+    {
+        "id": "CHEM9",
+        "question": "Name and explain the three types of intermolecular forces. 🔗"
+    },
+    {
+        "id": "CHEM10",
+        "question": "Describe the difference between intermolecular forces and interatomic forces. 🔗"
+    },
+    {
+        "id": "CHEM11",
+        "question": "Explain the relationship between intermolecular forces and molecular size for non-polar molecules. 📐"
+    },
+    {
+        "id": "CHEM12",
+        "question": "Explain the effect of intermolecular forces on boiling point. 🌡️"
+    },
+    {
+        "id": "CHEM13",
+        "question": "Explain the effect of intermolecular forces on melting point. 🌡️"
+    },
+    {
+        "id": "CHEM14",
+        "question": "Explain the effect of intermolecular forces on vapour pressure. 🌡️"
+    },
+    {
+        "id": "CHEM15",
+        "question": "Which substance has a higher boiling point: CH₄ or C₄H₁₀? Explain your answer. 🔥"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Organic Molecules
+    # ============================================================
+    {
+        "id": "CHEM16",
+        "question": "Define organic molecules. 🧪"
+    },
+    {
+        "id": "CHEM17",
+        "question": "Define molecular formula. 🧪"
+    },
+    {
+        "id": "CHEM18",
+        "question": "Define structural formula. 🧪"
+    },
+    {
+        "id": "CHEM19",
+        "question": "Define condensed structural formula. 🧪"
+    },
+    {
+        "id": "CHEM20",
+        "question": "Define hydrocarbon. 🧪"
+    },
+    {
+        "id": "CHEM21",
+        "question": "Define homologous series. 🧪"
+    },
+    {
+        "id": "CHEM22",
+        "question": "Define saturated compounds. 🧪"
+    },
+    {
+        "id": "CHEM23",
+        "question": "Define unsaturated compounds. 🧪"
+    },
+    {
+        "id": "CHEM24",
+        "question": "Define functional group. 🧪"
+    },
+    {
+        "id": "CHEM25",
+        "question": "Draw the structural formula of methane, ethane and propane. ✏️"
+    },
+    {
+        "id": "CHEM26",
+        "question": "Draw the structural formula of ethene and propene. ✏️"
+    },
+    {
+        "id": "CHEM27",
+        "question": "Draw the structural formula of ethyne and propyne. ✏️"
+    },
+    {
+        "id": "CHEM28",
+        "question": "Draw the structural formula of ethanol, propan-1-ol and propan-2-ol. ✏️"
+    },
+    {
+        "id": "CHEM29",
+        "question": "Give the IUPAC name for CH₃CH₂CH₂CH₃. 📝"
+    },
+    {
+        "id": "CHEM30",
+        "question": "Give the IUPAC name for CH₂=CHCH₂CH₃. 📝"
+    },
+    {
+        "id": "CHEM31",
+        "question": "Give the IUPAC name for CH₃CH₂OH. 📝"
+    },
+    {
+        "id": "CHEM32",
+        "question": "Give the IUPAC name for CH₃COOH. 📝"
+    },
+    {
+        "id": "CHEM33",
+        "question": "Give the IUPAC name for CH₃COOCH₂CH₃. 📝"
+    },
+    {
+        "id": "CHEM34",
+        "question": "Draw the structural formula of but-1-ene. ✏️"
+    },
+    {
+        "id": "CHEM35",
+        "question": "Draw the structural formula of 2-chlorobutane. ✏️"
+    },
+    {
+        "id": "CHEM36",
+        "question": "Draw the structural formula of methylpropane. ✏️"
+    },
+    {
+        "id": "CHEM37",
+        "question": "What is a structural isomer? 🧪"
+    },
+    {
+        "id": "CHEM38",
+        "question": "Identify three types of structural isomers. 📋"
+    },
+    {
+        "id": "CHEM39",
+        "question": "Draw chain isomers of C₄H₁₀. ✏️"
+    },
+    {
+        "id": "CHEM40",
+        "question": "Draw positional isomers of C₃H₇Cl. ✏️"
+    },
+    {
+        "id": "CHEM41",
+        "question": "Draw functional isomers of C₂H₄O₂. ✏️"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Physical Properties
+    # ============================================================
+    {
+        "id": "CHEM42",
+        "question": "Explain how chain length affects boiling point. 🔥"
+    },
+    {
+        "id": "CHEM43",
+        "question": "Explain how branched chains affect boiling point. 🔥"
+    },
+    {
+        "id": "CHEM44",
+        "question": "Explain how functional groups affect boiling point. 🔥"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Reactions
+    # ============================================================
+    {
+        "id": "CHEM45",
+        "question": "Write the equation for the combustion of methane in excess oxygen. 🔥"
+    },
+    {
+        "id": "CHEM46",
+        "question": "Write the equation for the formation of ethyl ethanoate from ethanol and ethanoic acid. 🧪"
+    },
+    {
+        "id": "CHEM47",
+        "question": "Name the reaction conditions for esterification. 🔥"
+    },
+    {
+        "id": "CHEM48",
+        "question": "What is hydrohalogenation? 🧪"
+    },
+    {
+        "id": "CHEM49",
+        "question": "What is halogenation of an alkene? 🧪"
+    },
+    {
+        "id": "CHEM50",
+        "question": "What is hydration of an alkene? 🧪"
+    },
+    {
+        "id": "CHEM51",
+        "question": "What is hydrogenation of an alkene? 🧪"
+    },
+    {
+        "id": "CHEM52",
+        "question": "What is dehydrohalogenation of a haloalkane? 🧪"
+    },
+    {
+        "id": "CHEM53",
+        "question": "What is dehydration of an alcohol? 🧪"
+    },
+    {
+        "id": "CHEM54",
+        "question": "What is cracking of alkanes? 🧪"
+    },
+    {
+        "id": "CHEM55",
+        "question": "Write the equation for the hydrolysis of 1-bromobutane. 🧪"
+    },
+    {
+        "id": "CHEM56",
+        "question": "How would you distinguish between saturated and unsaturated hydrocarbons using bromine water? 🧪"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Energy and Change
+    # ============================================================
+    {
+        "id": "CHEM57",
+        "question": "Define heat of reaction (ΔH). 🔥"
+    },
+    {
+        "id": "CHEM58",
+        "question": "Define exothermic reactions. 🔥"
+    },
+    {
+        "id": "CHEM59",
+        "question": "Define endothermic reactions. 🔥"
+    },
+    {
+        "id": "CHEM60",
+        "question": "State whether ΔH is positive or negative for an exothermic reaction. 🔥"
+    },
+    {
+        "id": "CHEM61",
+        "question": "Define activation energy. 🔥"
+    },
+    {
+        "id": "CHEM62",
+        "question": "Define an activated complex. 🔥"
+    },
+    {
+        "id": "CHEM63",
+        "question": "Draw a labelled potential energy diagram for an exothermic reaction. ✏️"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Rate and Extent of Reaction
+    # ============================================================
+    {
+        "id": "CHEM64",
+        "question": "Define reaction rate. ⚗️"
+    },
+    {
+        "id": "CHEM65",
+        "question": "Calculate the reaction rate if the concentration of a reactant decreases from 0.5 mol·dm⁻³ to 0.2 mol·dm⁻³ in 10 seconds. ⚗️"
+    },
+    {
+        "id": "CHEM66",
+        "question": "List the factors that affect the rate of chemical reactions. 📋"
+    },
+    {
+        "id": "CHEM67",
+        "question": "Explain in terms of collision theory how temperature affects reaction rate. ⚗️"
+    },
+    {
+        "id": "CHEM68",
+        "question": "Explain in terms of collision theory how concentration affects reaction rate. ⚗️"
+    },
+    {
+        "id": "CHEM69",
+        "question": "Define a catalyst. 🔬"
+    },
+    {
+        "id": "CHEM70",
+        "question": "Explain how a catalyst increases the rate of a reaction. 🔬"
+    },
+    {
+        "id": "CHEM71",
+        "question": "Interpret a Maxwell-Boltzmann curve to explain the effect of a catalyst on reaction rate. 📈"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Chemical Equilibrium
+    # ============================================================
+    {
+        "id": "CHEM72",
+        "question": "Explain what is meant by a closed system. 🔒"
+    },
+    {
+        "id": "CHEM73",
+        "question": "Explain what is meant by a reversible reaction. 🔄"
+    },
+    {
+        "id": "CHEM74",
+        "question": "Define chemical equilibrium. ⚖️"
+    },
+    {
+        "id": "CHEM75",
+        "question": "List the factors that influence the position of equilibrium. 📋"
+    },
+    {
+        "id": "CHEM76",
+        "question": "Write the equilibrium constant expression for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g). 📝"
+    },
+    {
+        "id": "CHEM77",
+        "question": "State Le Chatelier's principle. 📜"
+    },
+    {
+        "id": "CHEM78",
+        "question": "Using Le Chatelier's principle, explain the effect of increasing pressure on the equilibrium: N₂(g) + 3H₂(g) ⇌ 2NH₃(g). ⚖️"
+    },
+    {
+        "id": "CHEM79",
+        "question": "Using Le Chatelier's principle, explain the effect of increasing temperature on an exothermic equilibrium reaction. ⚖️"
+    },
+    {
+        "id": "CHEM80",
+        "question": "Interpret a graph of concentration versus time for a system reaching equilibrium. 📈"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Acids and Bases
+    # ============================================================
+    {
+        "id": "CHEM81",
+        "question": "Define an acid according to the Arrhenius theory. 🧪"
+    },
+    {
+        "id": "CHEM82",
+        "question": "Define a base according to the Arrhenius theory. 🧪"
+    },
+    {
+        "id": "CHEM83",
+        "question": "Define an acid according to the Lowry-Brønsted theory. 🧪"
+    },
+    {
+        "id": "CHEM84",
+        "question": "Define a base according to the Lowry-Brønsted theory. 🧪"
+    },
+    {
+        "id": "CHEM85",
+        "question": "Distinguish between strong acids and weak acids with examples. 🧪"
+    },
+    {
+        "id": "CHEM86",
+        "question": "Distinguish between strong bases and weak bases with examples. 🧪"
+    },
+    {
+        "id": "CHEM87",
+        "question": "Write the reaction equation for HCl dissolving in water. 🧪"
+    },
+    {
+        "id": "CHEM88",
+        "question": "Write the reaction equation for NH₃ dissolving in water. 🧪"
+    },
+    {
+        "id": "CHEM89",
+        "question": "Identify conjugate acid-base pairs in the reaction: HCl + H₂O → H₃O⁺ + Cl⁻. 🧪"
+    },
+    {
+        "id": "CHEM90",
+        "question": "Define an ampholyte and give an example. 🧪"
+    },
+    {
+        "id": "CHEM91",
+        "question": "Write the neutralisation reaction between NaOH and H₂SO₄. 🧪"
+    },
+    {
+        "id": "CHEM92",
+        "question": "Write the neutralisation reaction between CH₃COOH and NaOH. 🧪"
+    },
+    {
+        "id": "CHEM93",
+        "question": "Define hydrolysis. 🧪"
+    },
+    {
+        "id": "CHEM94",
+        "question": "Determine the pH of a solution of sodium ethanoate (CH₃COONa) in water (pH > 7, < 7 or = 7). 🧪"
+    },
+    {
+        "id": "CHEM95",
+        "question": "Define the equivalence point of a titration. 🧪"
+    },
+    {
+        "id": "CHEM96",
+        "question": "Define the endpoint of a titration. 🧪"
+    },
+    {
+        "id": "CHEM97",
+        "question": "Calculate the pH of a 0.01 mol·dm⁻³ solution of HCl. 🧪"
+    },
+    {
+        "id": "CHEM98",
+        "question": "Calculate the pH of a 0.001 mol·dm⁻³ solution of NaOH. (K_w = 1 × 10⁻¹⁴ at 298 K) 🧪"
+    },
+    {
+        "id": "CHEM99",
+        "question": "Define K_w. 🧪"
+    },
+    {
+        "id": "CHEM100",
+        "question": "Compare strong and weak acids in terms of pH, conductivity and reaction rate. 📊"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Electrochemical Reactions
+    # ============================================================
+    {
+        "id": "CHEM101",
+        "question": "Define a galvanic cell. 🔋"
+    },
+    {
+        "id": "CHEM102",
+        "question": "Define oxidation in terms of electron transfer. ⚡"
+    },
+    {
+        "id": "CHEM103",
+        "question": "Define reduction in terms of electron transfer. ⚡"
+    },
+    {
+        "id": "CHEM104",
+        "question": "Define oxidation in terms of oxidation number. ⚡"
+    },
+    {
+        "id": "CHEM105",
+        "question": "Define reduction in terms of oxidation number. ⚡"
+    },
+    {
+        "id": "CHEM106",
+        "question": "Define an oxidising agent. ⚡"
+    },
+    {
+        "id": "CHEM107",
+        "question": "Define a reducing agent. ⚡"
+    },
+    {
+        "id": "CHEM108",
+        "question": "Define an anode. ⚡"
+    },
+    {
+        "id": "CHEM109",
+        "question": "Define a cathode. ⚡"
+    },
+    {
+        "id": "CHEM110",
+        "question": "Define an electrolyte. ⚡"
+    },
+    {
+        "id": "CHEM111",
+        "question": "State the qualitative relationship between V_cell and the concentration of product ions. ⚡"
+    },
+    {
+        "id": "CHEM112",
+        "question": "What is the function of the salt bridge in a galvanic cell? 🧂"
+    },
+    {
+        "id": "CHEM113",
+        "question": "Write the cell notation for a galvanic cell consisting of Zn/Zn²⁺ and Cu/Cu²⁺ half-cells. 📝"
+    },
+    {
+        "id": "CHEM114",
+        "question": "Write the half-reaction that occurs at the anode for the Zn-Cu galvanic cell. ⚡"
+    },
+    {
+        "id": "CHEM115",
+        "question": "Write the half-reaction that occurs at the cathode for the Zn-Cu galvanic cell. ⚡"
+    },
+    {
+        "id": "CHEM116",
+        "question": "Write the overall cell reaction for the Zn-Cu galvanic cell. ⚡"
+    },
+    {
+        "id": "CHEM117",
+        "question": "Calculate the emf of the Zn-Cu galvanic cell using the Table of Standard Reduction Potentials. (E° Zn²⁺/Zn = -0.76 V, E° Cu²⁺/Cu = +0.34 V) 🔋"
+    },
+    {
+        "id": "CHEM118",
+        "question": "Define an electrolytic cell. 🔋"
+    },
+    {
+        "id": "CHEM119",
+        "question": "Define electrolysis. ⚡"
+    },
+    {
+        "id": "CHEM120",
+        "question": "Describe the electrolysis of copper(II) chloride using half-reactions. ⚡"
+    },
+    {
+        "id": "CHEM121",
+        "question": "Describe the electroplating of an iron spoon with silver. ⚡"
+    },
+    {
+        "id": "CHEM122",
+        "question": "Describe the refining of copper using electrolysis. ⚡"
+    },
+    {
+        "id": "CHEM123",
+        "question": "Describe the electrolysis of a concentrated NaCl solution. ⚡"
+    },
+    {
+        "id": "CHEM124",
+        "question": "State the standard conditions under which standard electrode potentials are determined. 📋"
+    },
+    {
+        "id": "CHEM125",
+        "question": "Describe the standard hydrogen electrode and its role as the reference electrode. 🔋"
+    },
+
+    # ============================================================
+    # PAPER 1: PHYSICS - Additional Mixed Questions
+    # ============================================================
+    {
+        "id": "PHY84",
+        "question": "A 2 kg object is dropped from a height of 20 m. Calculate its velocity just before impact using equations of motion. (g = 9.8 m·s⁻²) 🏀"
+    },
+    {
+        "id": "PHY85",
+        "question": "A car of mass 1 000 kg accelerates from rest to 20 m·s⁻¹ in 5 seconds. Calculate the net force acting on the car. 🚗"
+    },
+    {
+        "id": "PHY86",
+        "question": "A ball of mass 0.2 kg is thrown against a wall with a velocity of 15 m·s⁻¹ and rebounds with a velocity of 10 m·s⁻¹. Calculate the change in momentum. ⚽"
+    },
+    {
+        "id": "PHY87",
+        "question": "A force of 30 N is applied to a 5 kg object at an angle of 30° to the horizontal. Calculate the horizontal component of the force. 📐"
+    },
+    {
+        "id": "PHY88",
+        "question": "A 5 kg block is on a frictionless inclined plane at 25° to the horizontal. Calculate the acceleration of the block down the plane. ⛰️"
+    },
+    {
+        "id": "PHY89",
+        "question": "A 60 W bulb is used for 10 hours per day. Calculate the energy consumed per day in kWh. 💡"
+    },
+    {
+        "id": "PHY90",
+        "question": "A battery of emf 12 V and internal resistance 0.2 Ω is connected to a 2.8 Ω resistor. Calculate the terminal voltage. 🔋"
+    },
+    {
+        "id": "PHY91",
+        "question": "Two 10 Ω resistors are connected in parallel. Calculate the equivalent resistance. 🔌"
+    },
+    {
+        "id": "PHY92",
+        "question": "Two 10 Ω resistors are connected in series. Calculate the equivalent resistance. 🔌"
+    },
+    {
+        "id": "PHY93",
+        "question": "A circuit has a 12 V battery and a 4 Ω resistor. Calculate the current flowing. 🔌"
+    },
+    {
+        "id": "PHY94",
+        "question": "Calculate the power dissipated by a 5 Ω resistor when a current of 2 A flows through it. ⚡"
+    },
+    {
+        "id": "PHY95",
+        "question": "Two charges of +2 µC and +5 µC are separated by 0.3 m. Calculate the force between them. (k = 9.0 × 10⁹ N·m²·C⁻²) ⚡"
+    },
+    {
+        "id": "PHY96",
+        "question": "A charge of 3 µC is placed in an electric field of 200 N·C⁻¹. Calculate the force on the charge. ⚡"
+    },
+    {
+        "id": "PHY97",
+        "question": "A charge of 8 µC is placed at a distance of 0.5 m from a charge of -3 µC. Calculate the electric field at the midpoint between them. ⚡"
+    },
+    {
+        "id": "PHY98",
+        "question": "Explain the formation of a rainbow using the concept of dispersion. 🌈"
+    },
+    {
+        "id": "PHY99",
+        "question": "What is the speed of light in a vacuum? 💡"
+    },
+    {
+        "id": "PHY100",
+        "question": "Calculate the wavelength of a wave with a frequency of 5 × 10¹⁴ Hz. (Speed of light = 3 × 10⁸ m·s⁻¹) 🌈"
+    },
+
+    # ============================================================
+    # PAPER 2: CHEMISTRY - Additional Mixed Questions
+    # ============================================================
+    {
+        "id": "CHEM126",
+        "question": "Calculate the mass of 0.5 moles of NaCl. (Na = 23, Cl = 35.5) 🧪"
+    },
+    {
+        "id": "CHEM127",
+        "question": "Calculate the number of moles in 10 g of CaCO₃. (Ca = 40, C = 12, O = 16) 🧪"
+    },
+    {
+        "id": "CHEM128",
+        "question": "Calculate the volume of 0.5 moles of CO₂ at STP. 📐"
+    },
+    {
+        "id": "CHEM129",
+        "question": "Calculate the concentration of a solution containing 20 g of NaOH dissolved in 500 cm³ of water. (Na = 23, O = 16, H = 1) 🧪"
+    },
+    {
+        "id": "CHEM130",
+        "question": "In the reaction 2H₂ + O₂ → 2H₂O, calculate the mass of water produced when 4 g of H₂ reacts with excess O₂. (H = 1, O = 16) 🧪"
+    },
+    {
+        "id": "CHEM131",
+        "question": "What volume of oxygen is needed to completely react with 10 dm³ of hydrogen according to: 2H₂ + O₂ → 2H₂O? 📐"
+    },
+    {
+        "id": "CHEM132",
+        "question": "Calculate the percentage yield if 8 g of product is formed from a theoretical yield of 10 g. 📊"
+    },
+    {
+        "id": "CHEM133",
+        "question": "Draw the structural formula of pent-2-ene. ✏️"
+    },
+    {
+        "id": "CHEM134",
+        "question": "Draw the structural formula of 2-methylbutane. ✏️"
+    },
+    {
+        "id": "CHEM135",
+        "question": "Draw the structural formula of butanoic acid. ✏️"
+    },
+    {
+        "id": "CHEM136",
+        "question": "Draw the structural formula of ethyl methanoate. ✏️"
+    },
+    {
+        "id": "CHEM137",
+        "question": "Draw the structural formula of propanal. ✏️"
+    },
+    {
+        "id": "CHEM138",
+        "question": "Draw the structural formula of propanone. ✏️"
+    },
+    {
+        "id": "CHEM139",
+        "question": "Give the IUPAC name for CH₃CHClCH₂CH₃. 📝"
+    },
+    {
+        "id": "CHEM140",
+        "question": "Give the IUPAC name for CH₃CH₂CH₂COOH. 📝"
+    },
+    {
+        "id": "CHEM141",
+        "question": "Give the IUPAC name for CH₃CH₂COOCH₃. 📝"
+    },
+    {
+        "id": "CHEM142",
+        "question": "Give the IUPAC name for CH₃CH₂CHO. 📝"
+    },
+    {
+        "id": "CHEM143",
+        "question": "Give the IUPAC name for CH₃COCH₃. 📝"
+    },
+    {
+        "id": "CHEM144",
+        "question": "Write the equation for the addition of HBr to propene. 🧪"
+    },
+    {
+        "id": "CHEM145",
+        "question": "Write the equation for the addition of Br₂ to but-2-ene. 🧪"
+    },
+    {
+        "id": "CHEM146",
+        "question": "Write the equation for the hydration of ethene. 🧪"
+    },
+    {
+        "id": "CHEM147",
+        "question": "Write the equation for the hydrogenation of ethene. 🧪"
+    },
+    {
+        "id": "CHEM148",
+        "question": "Write the equation for the dehydration of ethanol. 🧪"
+    },
+    {
+        "id": "CHEM149",
+        "question": "Write the equation for the dehydrohalogenation of 2-bromobutane. 🧪"
+    },
+    {
+        "id": "CHEM150",
+        "question": "Write the equation for the halogenation of methane with Cl₂. 🧪"
+    },
+    {
+        "id": "CHEM151",
+        "question": "Write the equation for the hydrolysis of 2-chloropropane. 🧪"
+    },
+    {
+        "id": "CHEM152",
+        "question": "Draw a labelled potential energy diagram for an endothermic reaction. ✏️"
+    },
+    {
+        "id": "CHEM153",
+        "question": "Draw a labelled potential energy diagram for a catalysed reaction. ✏️"
+    },
+    {
+        "id": "CHEM154",
+        "question": "A reaction has a ΔH of -100 kJ·mol⁻¹. Is the reaction exothermic or endothermic? 🔥"
+    },
+    {
+        "id": "CHEM155",
+        "question": "A reaction has a ΔH of +50 kJ·mol⁻¹. Is the reaction exothermic or endothermic? 🔥"
+    },
+    {
+        "id": "CHEM156",
+        "question": "Calculate the reaction rate if the mass of a reactant decreases from 20 g to 12 g in 4 minutes. ⚗️"
+    },
+    {
+        "id": "CHEM157",
+        "question": "Explain in terms of collision theory how surface area affects reaction rate. ⚗️"
+    },
+    {
+        "id": "CHEM158",
+        "question": "Explain in terms of collision theory how a catalyst affects reaction rate. ⚗️"
+    },
+    {
+        "id": "CHEM159",
+        "question": "Interpret a Maxwell-Boltzmann curve to explain the effect of temperature on reaction rate. 📈"
+    },
+    {
+        "id": "CHEM160",
+        "question": "Interpret a Maxwell-Boltzmann curve to explain the effect of concentration on reaction rate. 📈"
+    },
+    {
+        "id": "CHEM161",
+        "question": "A solution has a pH of 3. Calculate the concentration of H₃O⁺ ions. 🧪"
+    },
+    {
+        "id": "CHEM162",
+        "question": "A solution has a pH of 11. Calculate the concentration of H₃O⁺ ions. 🧪"
+    },
+    {
+        "id": "CHEM163",
+        "question": "Calculate the pH of a 0.005 mol·dm⁻³ solution of HNO₃. 🧪"
+    },
+    {
+        "id": "CHEM164",
+        "question": "Determine the pH of a solution of ammonium chloride (NH₄Cl) in water (pH > 7, < 7 or = 7). 🧪"
+    },
+    {
+        "id": "CHEM165",
+        "question": "Determine the pH of a solution of sodium chloride (NaCl) in water (pH > 7, < 7 or = 7). 🧪"
+    },
+    {
+        "id": "CHEM166",
+        "question": "Identify the conjugate acid-base pairs in the reaction: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻. 🧪"
+    },
+    {
+        "id": "CHEM167",
+        "question": "Identify the conjugate acid-base pairs in the reaction: H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻. 🧪"
+    },
+    {
+        "id": "CHEM168",
+        "question": "Write the neutralisation reaction between HCl and CaCO₃. 🧪"
+    },
+    {
+        "id": "CHEM169",
+        "question": "Write the neutralisation reaction between H₂SO₄ and KOH. 🧪"
+    },
+    {
+        "id": "CHEM170",
+        "question": "In a titration, 25 cm³ of NaOH is neutralised by 20 cm³ of 0.1 mol·dm⁻³ HCl. Calculate the concentration of NaOH. 🧪"
+    },
+    {
+        "id": "CHEM171",
+        "question": "Write the half-reaction for the oxidation of zinc to Zn²⁺. ⚡"
+    },
+    {
+        "id": "CHEM172",
+        "question": "Write the half-reaction for the reduction of Cu²⁺ to copper. ⚡"
+    },
+    {
+        "id": "CHEM173",
+        "question": "Write the overall reaction for the cell: Zn | Zn²⁺ || Cu²⁺ | Cu. ⚡"
+    },
+    {
+        "id": "CHEM174",
+        "question": "Calculate the emf of the cell: Mg | Mg²⁺ || Ag⁺ | Ag. (E° Mg²⁺/Mg = -2.36 V, E° Ag⁺/Ag = +0.80 V) 🔋"
+    },
+    {
+        "id": "CHEM175",
+        "question": "Calculate the emf of the cell: Pt | Fe²⁺, Fe³⁺ || Cl₂ | Cl⁻ | Pt. (E° Fe³⁺/Fe²⁺ = +0.77 V, E° Cl₂/Cl⁻ = +1.36 V) 🔋"
+    },
+    {
+        "id": "CHEM176",
+        "question": "Is the reaction Zn + Cu²⁺ → Zn²⁺ + Cu spontaneous under standard conditions? Explain. ⚡"
+    },
+    {
+        "id": "CHEM177",
+        "question": "In the electrolysis of CuCl₂, which electrode does copper deposit on? ⚡"
+    },
+    {
+        "id": "CHEM178",
+        "question": "What is the product at the anode during the electrolysis of concentrated NaCl solution? ⚡"
+    },
+    {
+        "id": "CHEM179",
+        "question": "What is the product at the cathode during the electrolysis of concentrated NaCl solution? ⚡"
+    },
+    {
+        "id": "CHEM180",
+        "question": "Why is platinum used as an inert electrode in some galvanic cells? ⚡"
+    },
+    {
+        "id": "CHEM181",
+        "question": "What is the purpose of the salt bridge in a galvanic cell? 🧂"
+    },
+    {
+        "id": "CHEM182",
+        "question": "In a galvanic cell, electrons flow from which electrode to which electrode? ⚡"
+    },
+    {
+        "id": "CHEM183",
+        "question": "Define the term 'spontaneous reaction' in the context of electrochemistry. ⚡"
+    },
+    {
+        "id": "CHEM184",
+        "question": "Write the half-reaction for the oxidation of water to oxygen. ⚡"
+    },
+    {
+        "id": "CHEM185",
+        "question": "Write the half-reaction for the reduction of water to hydrogen. ⚡"
+    },
+    {
+        "id": "CHEM186",
+        "question": "What is the standard hydrogen electrode and why is it important? 🔋"
+    },
+    {
+        "id": "CHEM187",
+        "question": "State the conditions for standard electrode potentials. 📋"
+    },
+    {
+        "id": "CHEM188",
+        "question": "Explain why a battery goes 'flat' using the concept of equilibrium. 🔋"
+    },
+    {
+        "id": "CHEM189",
+        "question": "Define a spontaneous reaction in terms of E°_cell. ⚡"
+    },
+    {
+        "id": "CHEM190",
+        "question": "If E°_cell is negative, is the reaction spontaneous or non-spontaneous? ⚡"
+    },
+    {
+        "id": "CHEM191",
+        "question": "Draw a labelled diagram of a galvanic cell. ✏️"
+    },
+    {
+        "id": "CHEM192",
+        "question": "Draw a labelled diagram of an electrolytic cell. ✏️"
+    },
+    {
+        "id": "CHEM193",
+        "question": "Explain the difference between a galvanic cell and an electrolytic cell. 🔋"
+    },
+    {
+        "id": "CHEM194",
+        "question": "Define electroplating and give an example. ⚡"
+    },
+    {
+        "id": "CHEM195",
+        "question": "What is a sacrificial anode and how does it protect against corrosion? 🛡️"
+    },
+    {
+        "id": "CHEM196",
+        "question": "Explain cathodic protection. 🛡️"
+    },
+    {
+        "id": "CHEM197",
+        "question": "Calculate the mass of copper deposited when a current of 2 A flows through CuSO₄ solution for 10 minutes. (Faraday's constant = 96500 C·mol⁻¹, Cu = 63.5) ⚡"
+    },
+    {
+        "id": "CHEM198",
+        "question": "Write the balanced equation for the combustion of butane. 🔥"
+    },
+    {
+        "id": "CHEM199",
+        "question": "Write the balanced equation for the cracking of octane to produce ethene and hexane. 🔥"
+    },
+    {
+        "id": "CHEM200",
+        "question": "Why are alkanes used as fuels? 🔥"
+    }
+]

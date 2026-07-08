@@ -1,0 +1,853 @@
+Questions = [
+    # ============================================================
+    # PAPER 1: BUSINESS ENVIRONMENTS - Legislation
+    # ============================================================
+    {
+        "id": "BS1",
+        "question": "Define the term 'legislation' in the context of business. ⚖️"
+    },
+    {
+        "id": "BS2",
+        "question": "State the purpose of the Skills Development Act, 1998 (Act 97 of 1998). 📚"
+    },
+    {
+        "id": "BS3",
+        "question": "Explain the role of SETAs in supporting the Skills Development Act. 🏛️"
+    },
+    {
+        "id": "BS4",
+        "question": "How are SETAs funded? 💰"
+    },
+    {
+        "id": "BS5",
+        "question": "Define the term 'learnership' and explain its purpose. 📖"
+    },
+    {
+        "id": "BS6",
+        "question": "State the purpose of the Labour Relations Act, 1995 (Act 66 of 1995). 👥"
+    },
+    {
+        "id": "BS7",
+        "question": "Explain the rights of employers and employees in terms of the LRA. ⚖️"
+    },
+    {
+        "id": "BS8",
+        "question": "State the purpose of the Employment Equity Act, 1998 (Act 55 of 1998). 🤝"
+    },
+    {
+        "id": "BS9",
+        "question": "What actions are regarded as non-compliance with the Employment Equity Act? ❌"
+    },
+    {
+        "id": "BS10",
+        "question": "State the purpose of the Basic Conditions of Employment Act, 1997 (Act 75 of 1997). 📋"
+    },
+    {
+        "id": "BS11",
+        "question": "Outline the provisions of the Basic Conditions of Employment Act. 📝"
+    },
+    {
+        "id": "BS12",
+        "question": "State the purpose of the Compensation for Occupational Injuries and Diseases Amendment Act, 1997 (Act 61 of 1997). 🩹"
+    },
+    {
+        "id": "BS13",
+        "question": "Explain the penalties for non-compliance with the COIDA. ⚖️"
+    },
+    {
+        "id": "BS14",
+        "question": "Define the term 'Black Economic Empowerment' (BEE). 📈"
+    },
+    {
+        "id": "BS15",
+        "question": "Distinguish between BEE and the BBBEE Act. 🔍"
+    },
+    {
+        "id": "BS16",
+        "question": "Name the FIVE pillars of the revised BBBEE Act. 🏛️"
+    },
+    {
+        "id": "BS17",
+        "question": "Explain the 'Management Control' pillar of BBBEE. 👔"
+    },
+    {
+        "id": "BS18",
+        "question": "Explain the 'Ownership' pillar of BBBEE. 🏢"
+    },
+    {
+        "id": "BS19",
+        "question": "Explain the 'Enterprise and Supplier Development' pillar of BBBEE. 🤝"
+    },
+    {
+        "id": "BS20",
+        "question": "Explain the 'Skills Development' pillar of BBBEE. 📚"
+    },
+    {
+        "id": "BS21",
+        "question": "Explain the 'Socio-Economic Development' pillar of BBBEE. ❤️"
+    },
+    {
+        "id": "BS22",
+        "question": "Suggest ways in which businesses can apply the FIVE pillars of BBBEE in the workplace. 💡"
+    },
+    {
+        "id": "BS23",
+        "question": "State the purpose of the National Credit Act, 2005 (Act 34 of 2005). 💳"
+    },
+    {
+        "id": "BS24",
+        "question": "Explain the rights of consumers in terms of the National Credit Act. 🛡️"
+    },
+    {
+        "id": "BS25",
+        "question": "State the purpose of the Consumer Protection Act, 2008 (Act 68 of 2008). 🛒"
+    },
+    {
+        "id": "BS26",
+        "question": "Explain the rights of consumers in terms of the Consumer Protection Act. 🛡️"
+    },
+    {
+        "id": "BS27",
+        "question": "A business has been fined for not complying with the CPA. What could they have done wrong? ❌"
+    },
+    {
+        "id": "BS28",
+        "question": "Recommend ways in which businesses can comply with the Consumer Protection Act. 💡"
+    },
+
+    # ============================================================
+    # PAPER 1: BUSINESS ENVIRONMENTS - Business Strategies
+    # ============================================================
+    {
+        "id": "BS29",
+        "question": "Define the term 'SWOT analysis'. 📊"
+    },
+    {
+        "id": "BS30",
+        "question": "Compile a SWOT analysis for a business from a given scenario. 📈"
+    },
+    {
+        "id": "BS31",
+        "question": "Name and explain Porter's Five Forces model. 🏛️"
+    },
+    {
+        "id": "BS32",
+        "question": "Advise businesses on how they could apply Porter's Five Forces model to analyse their position in the market. 💡"
+    },
+    {
+        "id": "BS33",
+        "question": "Name and apply PESTLE analysis factors from given scenarios. 🔍"
+    },
+    {
+        "id": "BS34",
+        "question": "Explain how PESTLE factors pose challenges to businesses. ⚠️"
+    },
+    {
+        "id": "BS35",
+        "question": "Recommend ways in which businesses can deal with challenges posed by PESTLE factors. 💡"
+    },
+    {
+        "id": "BS36",
+        "question": "Define the term 'strategic management process'. 📋"
+    },
+    {
+        "id": "BS37",
+        "question": "Apply the strategic management process to solve business-related problems. 🧠"
+    },
+    {
+        "id": "BS38",
+        "question": "Define 'forward vertical integration'. 📈"
+    },
+    {
+        "id": "BS39",
+        "question": "Define 'backward vertical integration'. 📈"
+    },
+    {
+        "id": "BS40",
+        "question": "Define 'horizontal integration'. 📈"
+    },
+    {
+        "id": "BS41",
+        "question": "Define 'market penetration' as an intensive strategy. 🎯"
+    },
+    {
+        "id": "BS42",
+        "question": "Define 'market development' as an intensive strategy. 🌍"
+    },
+    {
+        "id": "BS43",
+        "question": "Define 'product development' as an intensive strategy. 🆕"
+    },
+    {
+        "id": "BS44",
+        "question": "Define 'concentric diversification'. 🔄"
+    },
+    {
+        "id": "BS45",
+        "question": "Define 'horizontal diversification'. 🔄"
+    },
+    {
+        "id": "BS46",
+        "question": "Define 'conglomerate diversification'. 🔄"
+    },
+    {
+        "id": "BS47",
+        "question": "Define 'retrenchment' as a defensive strategy. 📉"
+    },
+    {
+        "id": "BS48",
+        "question": "Define 'divestiture' as a defensive strategy. 📉"
+    },
+    {
+        "id": "BS49",
+        "question": "Define 'liquidation' as a defensive strategy. 📉"
+    },
+    {
+        "id": "BS50",
+        "question": "Outline the steps in strategy evaluation. 📋"
+    },
+    {
+        "id": "BS51",
+        "question": "Explain how a business can reposition itself. 🔄"
+    },
+
+    # ============================================================
+    # PAPER 1: BUSINESS ENVIRONMENTS - Business Sectors
+    # ============================================================
+    {
+        "id": "BS52",
+        "question": "Name the THREE types of business sectors. 🏭"
+    },
+    {
+        "id": "BS53",
+        "question": "Identify a business sector from given scenarios. 🔍"
+    },
+    {
+        "id": "BS54",
+        "question": "Identify business challenges from scenarios and classify them according to the THREE business environments. ⚠️"
+    },
+    {
+        "id": "BS55",
+        "question": "State the extent to which a business can control the three business environments. 🎯"
+    },
+
+    # ============================================================
+    # PAPER 1: BUSINESS OPERATIONS - Human Resources
+    # ============================================================
+    {
+        "id": "BS56",
+        "question": "Define the term 'recruitment'. 👥"
+    },
+    {
+        "id": "BS57",
+        "question": "Outline the recruitment procedure. 📋"
+    },
+    {
+        "id": "BS58",
+        "question": "Explain the meaning of 'job analysis'. 📝"
+    },
+    {
+        "id": "BS59",
+        "question": "Differentiate between 'job description' and 'job specification'. 🔍"
+    },
+    {
+        "id": "BS60",
+        "question": "Identify 'job description' and 'job specification' from given scenarios. 🔍"
+    },
+    {
+        "id": "BS61",
+        "question": "Identify methods of recruitment (internal/external) from given scenarios. 🔍"
+    },
+    {
+        "id": "BS62",
+        "question": "Discuss the advantages of internal recruitment. ✅"
+    },
+    {
+        "id": "BS63",
+        "question": "Discuss the disadvantages of internal recruitment. ❌"
+    },
+    {
+        "id": "BS64",
+        "question": "Discuss the advantages of external recruitment. ✅"
+    },
+    {
+        "id": "BS65",
+        "question": "Discuss the disadvantages of external recruitment. ❌"
+    },
+    {
+        "id": "BS66",
+        "question": "Give examples of sources of external recruitment. 📋"
+    },
+    {
+        "id": "BS67",
+        "question": "Define the term 'employment contract'. 📄"
+    },
+    {
+        "id": "BS68",
+        "question": "Outline the details/aspects/contents of an employment contract. 📋"
+    },
+    {
+        "id": "BS69",
+        "question": "Discuss the legal requirements of an employment contract. ⚖️"
+    },
+    {
+        "id": "BS70",
+        "question": "Explain the reasons for the termination of an employment contract. ❌"
+    },
+    {
+        "id": "BS71",
+        "question": "Define the term 'induction'. 🏢"
+    },
+    {
+        "id": "BS72",
+        "question": "Outline the purpose of induction. 🎯"
+    },
+    {
+        "id": "BS73",
+        "question": "State aspects that must be included in an induction programme. 📋"
+    },
+    {
+        "id": "BS74",
+        "question": "Discuss the advantages/benefits of induction for businesses. ✅"
+    },
+    {
+        "id": "BS75",
+        "question": "Define the term 'placement'. 📋"
+    },
+    {
+        "id": "BS76",
+        "question": "Give examples of employee benefits/fringe benefits. 💰"
+    },
+    {
+        "id": "BS77",
+        "question": "Discuss the impact of fringe benefits on businesses. 📊"
+    },
+    {
+        "id": "BS78",
+        "question": "Explain the Unemployment Insurance Fund (UIF) as a benefit required by law. 🛡️"
+    },
+    {
+        "id": "BS79",
+        "question": "Discuss the implications of the LRA on the human resources function. ⚖️"
+    },
+    {
+        "id": "BS80",
+        "question": "Discuss the implications of the BCEA on the human resources function. ⚖️"
+    },
+
+    # ============================================================
+    # PAPER 1: BUSINESS OPERATIONS - Quality of Performance
+    # ============================================================
+    {
+        "id": "BS81",
+        "question": "Define the concept of 'quality'. ✅"
+    },
+    {
+        "id": "BS82",
+        "question": "Define 'quality control'. 🛠️"
+    },
+    {
+        "id": "BS83",
+        "question": "Define 'quality assurance'. 🛠️"
+    },
+    {
+        "id": "BS84",
+        "question": "Define 'quality management'. 🛠️"
+    },
+    {
+        "id": "BS85",
+        "question": "Define 'quality performance'. 📊"
+    },
+    {
+        "id": "BS86",
+        "question": "Differentiate between 'quality control' and 'quality assurance'. 🔍"
+    },
+    {
+        "id": "BS87",
+        "question": "Explain the advantages/benefits of a good quality management system. ✅"
+    },
+    {
+        "id": "BS88",
+        "question": "Explain how quality of performance can contribute to the success of each business function. 📈"
+    },
+    {
+        "id": "BS89",
+        "question": "Explain how quality of performance can contribute to the failure of each business function. 📉"
+    },
+    {
+        "id": "BS90",
+        "question": "Outline the quality indicators for each business function. 📋"
+    },
+    {
+        "id": "BS91",
+        "question": "Elaborate on the meaning of Total Quality Management (TQM). 🏆"
+    },
+    {
+        "id": "BS92",
+        "question": "Define 'continuous skills development' as a TQM element. 📚"
+    },
+    {
+        "id": "BS93",
+        "question": "Define 'total client/customer satisfaction' as a TQM element. 😊"
+    },
+    {
+        "id": "BS94",
+        "question": "Define 'continuous improvement of processes and systems' as a TQM element. 🔄"
+    },
+    {
+        "id": "BS95",
+        "question": "Define 'adequate financing and capacity' as a TQM element. 💰"
+    },
+    {
+        "id": "BS96",
+        "question": "Define 'monitoring and evaluation of quality processes' as a TQM element. 📊"
+    },
+    {
+        "id": "BS97",
+        "question": "Explain the impact of TQM elements on large businesses. 📈"
+    },
+    {
+        "id": "BS98",
+        "question": "Explain how businesses can apply the PDCA model to improve quality. 🔄"
+    },
+    {
+        "id": "BS99",
+        "question": "Explain the role/importance of quality circles as part of continuous improvement. 🔵"
+    },
+    {
+        "id": "BS100",
+        "question": "Explain the impact of TQM if poorly implemented by businesses. ❌"
+    },
+    {
+        "id": "BS101",
+        "question": "Suggest ways in which TQM can reduce the cost of quality. 💰"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS VENTURES - Management and Leadership
+    # ============================================================
+    {
+        "id": "BS102",
+        "question": "Define the meaning of 'management'. 👔"
+    },
+    {
+        "id": "BS103",
+        "question": "Define the meaning of 'leadership'. 👔"
+    },
+    {
+        "id": "BS104",
+        "question": "Differentiate between 'management' and 'leadership'. 🔍"
+    },
+    {
+        "id": "BS105",
+        "question": "Define the 'democratic' leadership style. 🗳️"
+    },
+    {
+        "id": "BS106",
+        "question": "Define the 'autocratic' leadership style. 👑"
+    },
+    {
+        "id": "BS107",
+        "question": "Define the 'laissez-faire/free-reign' leadership style. 🙌"
+    },
+    {
+        "id": "BS108",
+        "question": "Define the 'charismatic' leadership style. ⭐"
+    },
+    {
+        "id": "BS109",
+        "question": "Define the 'transactional' leadership style. 🔄"
+    },
+    {
+        "id": "BS110",
+        "question": "Identify leadership styles from given scenarios and motivate answers. 🔍"
+    },
+    {
+        "id": "BS111",
+        "question": "Evaluate the impact (advantages and disadvantages) of the democratic leadership style. 📊"
+    },
+    {
+        "id": "BS112",
+        "question": "Evaluate the impact of the autocratic leadership style. 📊"
+    },
+    {
+        "id": "BS113",
+        "question": "Suggest situations in which each leadership style can be applied in the workplace. 💡"
+    },
+    {
+        "id": "BS114",
+        "question": "Discuss the 'leaders and followers' theory of leadership. 👥"
+    },
+    {
+        "id": "BS115",
+        "question": "Discuss the 'situational leadership' theory. 🔄"
+    },
+    {
+        "id": "BS116",
+        "question": "Discuss 'transformational' leadership theory. 🔄"
+    },
+    {
+        "id": "BS117",
+        "question": "Discuss 'transitional' leadership theory. 🔄"
+    },
+    {
+        "id": "BS118",
+        "question": "Explain the role of personal attitude in successful leadership. 😊"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS VENTURES - Investment (Securities)
+    # ============================================================
+    {
+        "id": "BS119",
+        "question": "Outline the functions of the Johannesburg Stock Exchange (JSE). 🏛️"
+    },
+    {
+        "id": "BS120",
+        "question": "Explain the factors that should be considered when making investment decisions. 📋"
+    },
+    {
+        "id": "BS121",
+        "question": "Define 'Return on Investment (ROI)'. 💰"
+    },
+    {
+        "id": "BS122",
+        "question": "Define 'liquidity' in the context of investments. 💧"
+    },
+    {
+        "id": "BS123",
+        "question": "Explain the concept of 'risk' in investments. ⚠️"
+    },
+    {
+        "id": "BS124",
+        "question": "Explain the concept of 'investment term/period'. ⏰"
+    },
+    {
+        "id": "BS125",
+        "question": "Define 'mutual funds/Stokvel' as an investment opportunity. 🤝"
+    },
+    {
+        "id": "BS126",
+        "question": "Define 'managed portfolio' as an investment opportunity. 📊"
+    },
+    {
+        "id": "BS127",
+        "question": "Define 'venture capital' as an investment opportunity. 💰"
+    },
+    {
+        "id": "BS128",
+        "question": "Define 'debentures' as an investment opportunity. 📄"
+    },
+    {
+        "id": "BS129",
+        "question": "Define 'endowment/retirement annuities' as an investment opportunity. 🏦"
+    },
+    {
+        "id": "BS130",
+        "question": "Explain the difference between 'simple interest' and 'compound interest'. 🔢"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS VENTURES - Insurance
+    # ============================================================
+    {
+        "id": "BS131",
+        "question": "Define the meaning of 'insurance'. 🛡️"
+    },
+    {
+        "id": "BS132",
+        "question": "Explain the meaning of 'non-compulsory insurance'. 🛡️"
+    },
+    {
+        "id": "BS133",
+        "question": "Explain the meaning of 'over-insurance'. ⚠️"
+    },
+    {
+        "id": "BS134",
+        "question": "Explain the meaning of 'under-insurance'. ⚠️"
+    },
+    {
+        "id": "BS135",
+        "question": "Explain the meaning of 'average clause'. 📋"
+    },
+    {
+        "id": "BS136",
+        "question": "Explain the meaning of 'reinstatement'. 🔄"
+    },
+    {
+        "id": "BS137",
+        "question": "Explain the meaning of 'excess' in insurance. 💰"
+    },
+    {
+        "id": "BS138",
+        "question": "Differentiate between 'insurance' and 'assurance'. 🔍"
+    },
+    {
+        "id": "BS139",
+        "question": "Give examples of short-term and long-term insurance. 📋"
+    },
+    {
+        "id": "BS140",
+        "question": "Explain the principle of 'indemnification/indemnity'. 🛡️"
+    },
+    {
+        "id": "BS141",
+        "question": "Explain the principle of 'utmost good faith'. 🤝"
+    },
+    {
+        "id": "BS142",
+        "question": "Explain the principle of 'insurable interest'. 🏠"
+    },
+    {
+        "id": "BS143",
+        "question": "Apply the average clause to calculate compensation in the case of under-insurance. 🧮"
+    },
+    {
+        "id": "BS144",
+        "question": "Explain the meaning of 'insurable' and 'non-insurable' risks. ⚠️"
+    },
+    {
+        "id": "BS145",
+        "question": "Explain the meaning of 'compulsory insurance'. 🛡️"
+    },
+    {
+        "id": "BS146",
+        "question": "Differentiate between 'compulsory' and 'non-compulsory' insurance. 🔍"
+    },
+    {
+        "id": "BS147",
+        "question": "Explain the UIF (Unemployment Insurance Fund). 🛡️"
+    },
+    {
+        "id": "BS148",
+        "question": "Explain the RAF (Road Accident Fund). 🚗"
+    },
+    {
+        "id": "BS149",
+        "question": "Explain COIDA (Compensation for Occupational Injuries and Diseases Act). 🩹"
+    },
+    {
+        "id": "BS150",
+        "question": "Explain the types of benefits paid out by the UIF. 💰"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS VENTURES - Forms of Ownership
+    # ============================================================
+    {
+        "id": "BS151",
+        "question": "Explain the characteristics of a sole trader. 🏪"
+    },
+    {
+        "id": "BS152",
+        "question": "Explain the characteristics of a partnership. 🤝"
+    },
+    {
+        "id": "BS153",
+        "question": "Explain the characteristics of a close corporation (CC). 🏢"
+    },
+    {
+        "id": "BS154",
+        "question": "Explain the characteristics of a co-operative. 🤝"
+    },
+    {
+        "id": "BS155",
+        "question": "Explain the characteristics of a profit company. 🏢"
+    },
+    {
+        "id": "BS156",
+        "question": "Explain the characteristics of a non-profit company. ❤️"
+    },
+    {
+        "id": "BS157",
+        "question": "Explain the meaning of 'limited liability'. 🛡️"
+    },
+    {
+        "id": "BS158",
+        "question": "Explain the meaning of 'unlimited liability'. ⚠️"
+    },
+    {
+        "id": "BS159",
+        "question": "Discuss the impact of taxation on each form of ownership. 💰"
+    },
+    {
+        "id": "BS160",
+        "question": "Discuss the impact of management on each form of ownership. 👔"
+    },
+    {
+        "id": "BS161",
+        "question": "Discuss the impact of capital on each form of ownership. 💰"
+    },
+    {
+        "id": "BS162",
+        "question": "Discuss the impact of division of profits on each form of ownership. 📊"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS VENTURES - Presentation
+    # ============================================================
+    {
+        "id": "BS163",
+        "question": "Outline factors that must be considered when preparing for a presentation. 📋"
+    },
+    {
+        "id": "BS164",
+        "question": "Outline factors that must be considered by the presenter while presenting. 🎤"
+    },
+    {
+        "id": "BS165",
+        "question": "Explain how to respond to questions after a presentation professionally. 💬"
+    },
+    {
+        "id": "BS166",
+        "question": "Suggest ways in which the presenter can handle feedback professionally. 💡"
+    },
+    {
+        "id": "BS167",
+        "question": "Outline aspects that must be considered when designing a multimedia presentation. 🖥️"
+    },
+    {
+        "id": "BS168",
+        "question": "Give examples of non-verbal presentations. 📊"
+    },
+    {
+        "id": "BS169",
+        "question": "Discuss the impact of PowerPoint/Data projector as a visual aid. 🖥️"
+    },
+    {
+        "id": "BS170",
+        "question": "Discuss the impact of hand-outs/flyers/brochures as visual aids. 📄"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS ROLES - Ethics and Professionalism
+    # ============================================================
+    {
+        "id": "BS171",
+        "question": "Define the meaning of 'ethical behaviour'. ✅"
+    },
+    {
+        "id": "BS172",
+        "question": "Give practical examples of ethical and unethical behaviour. 📋"
+    },
+    {
+        "id": "BS173",
+        "question": "Define the meaning of 'professional behaviour'. 👔"
+    },
+    {
+        "id": "BS174",
+        "question": "Give practical examples of professional and unprofessional behaviour. 📋"
+    },
+    {
+        "id": "BS175",
+        "question": "Differentiate between 'ethical' and 'professional' behaviour. 🔍"
+    },
+    {
+        "id": "BS176",
+        "question": "Explain how businesses can apply the King Code principles of transparency, accountability and responsibility. 📜"
+    },
+    {
+        "id": "BS177",
+        "question": "Suggest ways in which professional, responsible, ethical and effective business practice should be conducted. 💡"
+    },
+    {
+        "id": "BS178",
+        "question": "Explain how 'unfair advertising' poses challenges to businesses. ⚠️"
+    },
+    {
+        "id": "BS179",
+        "question": "Explain how 'tax evasion' poses challenges to businesses. ⚠️"
+    },
+    {
+        "id": "BS180",
+        "question": "Explain how 'sexual harassment' poses challenges to businesses. ⚠️"
+    },
+    {
+        "id": "BS181",
+        "question": "Explain how 'unauthorised use of workplace funds' poses challenges to businesses. ⚠️"
+    },
+    {
+        "id": "BS182",
+        "question": "Explain how 'abuse of work time' poses challenges to businesses. ⚠️"
+    },
+    {
+        "id": "BS183",
+        "question": "Recommend ways in which businesses could deal with unprofessional business practices. 💡"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS ROLES - Creative Thinking
+    # ============================================================
+    {
+        "id": "BS184",
+        "question": "Define the meaning of 'problem-solving' and 'decision-making'. 🧠"
+    },
+    {
+        "id": "BS185",
+        "question": "Differentiate between 'problem-solving' and 'decision-making'. 🔍"
+    },
+    {
+        "id": "BS186",
+        "question": "Explain the problem-solving steps. 📋"
+    },
+    {
+        "id": "BS187",
+        "question": "Explain the Delphi technique as a problem-solving method. 🔮"
+    },
+    {
+        "id": "BS188",
+        "question": "Explain the Force Field Analysis technique. ⚖️"
+    },
+    {
+        "id": "BS189",
+        "question": "Explain the Brainstorming technique. 💡"
+    },
+    {
+        "id": "BS190",
+        "question": "Explain the Nominal Group Technique. 📋"
+    },
+    {
+        "id": "BS191",
+        "question": "Evaluate the impact (advantages and disadvantages) of brainstorming. 📊"
+    },
+    {
+        "id": "BS192",
+        "question": "Define the meaning of 'creative thinking'. 💡"
+    },
+    {
+        "id": "BS193",
+        "question": "Explain the benefits/advantages of creative thinking in the workplace. ✅"
+    },
+    {
+        "id": "BS194",
+        "question": "Recommend ways businesses can create an environment that promotes creative thinking. 💡"
+    },
+
+    # ============================================================
+    # PAPER 2: BUSINESS ROLES - Social Responsibility
+    # ============================================================
+    {
+        "id": "BS195",
+        "question": "Define the meaning of 'social responsibility'. ❤️"
+    },
+    {
+        "id": "BS196",
+        "question": "Explain the relationship between social responsibility and the triple bottom line. 📊"
+    },
+    {
+        "id": "BS197",
+        "question": "Suggest ways in which a business project can contribute towards the community. 💡"
+    },
+    {
+        "id": "BS198",
+        "question": "Define 'Corporate Social Responsibility' (CSR). 🏢"
+    },
+    {
+        "id": "BS199",
+        "question": "Define 'Corporate Social Investment' (CSI). ❤️"
+    },
+    {
+        "id": "BS200",
+        "question": "Differentiate between CSR and CSI. 🔍"
+    }
+]

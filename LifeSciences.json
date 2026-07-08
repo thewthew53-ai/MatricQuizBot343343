@@ -1,0 +1,802 @@
+[
+    {
+        "id": "L1",
+        "question": "Define the term DNA profiling. 🖋️"
+    },
+    {
+        "id": "L2",
+        "question": "Who were the scientists credited with discovering the double helix structure of DNA? 🤷"
+    },
+    {
+        "id": "L3",
+        "question": "What are the three components of a DNA nucleotide? 🧪"
+    },
+    {
+        "id": "L4",
+        "question": "Which nitrogenous base is found in RNA but NOT in DNA? ❓"
+    },
+    {
+        "id": "L5",
+        "question": "State the function of mRNA in protein synthesis. 📨"
+    },
+    {
+        "id": "L6",
+        "question": "Where in the cell does transcription take place? 🔬"
+    },
+    {
+        "id": "L7",
+        "question": "Explain the process of DNA replication. (Names of enzymes are not required). 🌀"
+    },
+    {
+        "id": "L8",
+        "question": "What is the natural shape of a DNA molecule? 📐"
+    },
+    {
+        "id": "L9",
+        "question": "State THREE functions of DNA. 🧬"
+    },
+    {
+        "id": "L10",
+        "question": "Describe the role of tRNA during translation. 🚛"
+    },
+    {
+        "id": "L11",
+        "question": "What is a codon? ❓"
+    },
+    {
+        "id": "L12",
+        "question": "Where is mitochondrial DNA located? 🔋"
+    },
+    {
+        "id": "L13",
+        "question": "Give TWO uses of DNA profiles in modern society. 👮‍♂️"
+    },
+    {
+        "id": "L14",
+        "question": "What type of sugar is found in RNA? 🍬"
+    },
+    {
+        "id": "L15",
+        "question": "Explain the significance of DNA replication before cell division. 💡"
+    },
+    {
+        "id": "L16",
+        "question": "Define the term meiosis. 🖋️"
+    },
+    {
+        "id": "L17",
+        "question": "During which phase of meiosis does crossing over occur? 🤷"
+    },
+    {
+        "id": "L18",
+        "question": "What is the difference between a haploid (n) and a diploid (2n) cell? 📊"
+    },
+    {
+        "id": "L19",
+        "question": "State TWO ways in which meiosis introduces genetic variation. 🧬"
+    },
+    {
+        "id": "L20",
+        "question": "What is non-disjunction? ❌"
+    },
+    {
+        "id": "L21",
+        "question": "Explain how non-disjunction during Anaphase I can lead to Down syndrome. 🧑‍🦰"
+    },
+    {
+        "id": "L22",
+        "question": "Where does meiosis occur in male animals? 🥚"
+    },
+    {
+        "id": "L23",
+        "question": "Describe the events of Metaphase I. 🔬"
+    },
+    {
+        "id": "L24",
+        "question": "What is the role of the centrosome during meiosis? ⚙️"
+    },
+    {
+        "id": "L25",
+        "question": "Tabulate TWO differences between mitosis and meiosis. 📝"
+    },
+    {
+        "id": "L26",
+        "question": "Why is meiosis important for sexual reproduction? 💡"
+    },
+    {
+        "id": "L27",
+        "question": "How many chromosomes will be present in a human gamete? 🔢"
+    },
+    {
+        "id": "L28",
+        "question": "What is the structure of a chromosome after DNA replication? (Hint: It consists of two...) 🧬"
+    },
+    {
+        "id": "L29",
+        "question": "Explain the random arrangement of chromosomes at the equator during Meiosis I. 🎲"
+    },
+    {
+        "id": "L30",
+        "question": "Why is it important that meiosis produces haploid gametes? 💡"
+    },
+    {
+        "id": "L31",
+        "question": "Define the term ovipary. 🖋️"
+    },
+    {
+        "id": "L32",
+        "question": "Distinguish between external fertilisation and internal fertilisation. 🤔"
+    },
+    {
+        "id": "L33",
+        "question": "What is an amniotic egg and why is it advantageous for terrestrial life? 🥚"
+    },
+    {
+        "id": "L34",
+        "question": "Define vivipary and give an example of an animal that displays this. 🤱"
+    },
+    {
+        "id": "L35",
+        "question": "What is the difference between precocial and altricial development? 👶"
+    },
+    {
+        "id": "L36",
+        "question": "State ONE advantage of parental care in animals. ❤️"
+    },
+    {
+        "id": "L37",
+        "question": "Why do fish usually rely on external fertilisation? 💧"
+    },
+    {
+        "id": "L38",
+        "question": "Define ovovivipary. 🖋️"
+    },
+    {
+        "id": "L39",
+        "question": "Name the reproductive strategy where embryos develop inside the mother and are nourished by a placenta. 🤱"
+    },
+    {
+        "id": "L40",
+        "question": "Explain why internal fertilisation is more successful in terrestrial environments. 🌍"
+    },
+    {
+        "id": "L41",
+        "question": "State the function of the epididymis. 🧬"
+    },
+    {
+        "id": "L42",
+        "question": "Which hormone is responsible for the development of male secondary sexual characteristics during puberty? 💉"
+    },
+    {
+        "id": "L43",
+        "question": "Define gametogenesis. 🖋️"
+    },
+    {
+        "id": "L44",
+        "question": "Where does spermatogenesis occur in the male body? 🥜"
+    },
+    {
+        "id": "L45",
+        "question": "Explain the function of the acrosome in a sperm cell. 🎯"
+    },
+    {
+        "id": "L46",
+        "question": "Describe the structure of a mature ovum. 🥚"
+    },
+    {
+        "id": "L47",
+        "question": "What is the role of FSH in the menstrual cycle? 💉"
+    },
+    {
+        "id": "L48",
+        "question": "What is ovulation? 📅"
+    },
+    {
+        "id": "L49",
+        "question": "State the function of the corpus luteum. 🟡"
+    },
+    {
+        "id": "L50",
+        "question": "What hormone is secreted by the corpus luteum to maintain the endometrium? 🤷"
+    },
+    {
+        "id": "L51",
+        "question": "Define fertilisation. 🖋️"
+    },
+    {
+        "id": "L52",
+        "question": "Where does fertilisation typically occur in the female reproductive system? 🤷"
+    },
+    {
+        "id": "L53",
+        "question": "What is implantation? 🖋️"
+    },
+    {
+        "id": "L54",
+        "question": "State TWO functions of the amniotic fluid. 💧"
+    },
+    {
+        "id": "L55",
+        "question": "What is the role of the umbilical vein? 🩸"
+    },
+    {
+        "id": "L56",
+        "question": "Explain the negative feedback mechanism involving FSH and progesterone. 📉"
+    },
+    {
+        "id": "L57",
+        "question": "What is the function of the chorionic villi? 🌿"
+    },
+    {
+        "id": "L58",
+        "question": "Describe the changes that occur in the endometrium during the uterine cycle. 🩸"
+    },
+    {
+        "id": "L59",
+        "question": "What is the difference between a zygote, an embryo, and a foetus? 👶"
+    },
+    {
+        "id": "L60",
+        "question": "Why is the tail of the sperm cell important? 🏊"
+    },
+    {
+        "id": "L61",
+        "question": "Who is known as the 'father' of genetics? 🤷"
+    },
+    {
+        "id": "L62",
+        "question": "Define the term allele. 🖋️"
+    },
+    {
+        "id": "L63",
+        "question": "Distinguish between phenotype and genotype. 🤔"
+    },
+    {
+        "id": "L64",
+        "question": "What does the Law of Dominance state? ⚖️"
+    },
+    {
+        "id": "L65",
+        "question": "Define incomplete dominance and give an example. 🌸"
+    },
+    {
+        "id": "L66",
+        "question": "What is co-dominance? 🖋️"
+    },
+    {
+        "id": "L67",
+        "question": "A man has blood group AB. What is his genotype? 🩸"
+    },
+    {
+        "id": "L68",
+        "question": "Explain Mendel's Principle of Segregation. 🧬"
+    },
+    {
+        "id": "L69",
+        "question": "What are sex chromosomes? XX and XY represent which sexes? 🧬"
+    },
+    {
+        "id": "L70",
+        "question": "Complete a genetic cross to show the inheritance of sex in humans. 👶🧬"
+    },
+    {
+        "id": "L71",
+        "question": "Define a sex-linked disorder. 🖋️"
+    },
+    {
+        "id": "L72",
+        "question": "Name TWO sex-linked disorders mentioned in the syllabus. 🩸👀"
+    },
+    {
+        "id": "L73",
+        "question": "State Mendel's Principle of Independent Assortment. ⚖️"
+    },
+    {
+        "id": "L74",
+        "question": "What is a pedigree diagram used for? 📜"
+    },
+    {
+        "id": "L75",
+        "question": "Define a mutation. 🖋️"
+    },
+    {
+        "id": "L76",
+        "question": "Distinguish between a gene mutation and a chromosomal mutation. 🧬"
+    },
+    {
+        "id": "L77",
+        "question": "What is the cause of Down syndrome? 🧑‍🦰"
+    },
+    {
+        "id": "L78",
+        "question": "What is genetic engineering? 🧪"
+    },
+    {
+        "id": "L79",
+        "question": "State ONE benefit of genetically modified organisms (GMOs). 🌽"
+    },
+    {
+        "id": "L80",
+        "question": "How can DNA profiles be used in paternity testing? 👨‍👦"
+    },
+    {
+        "id": "L81",
+        "question": "Complete the following genetic cross: A heterozygous brown-eyed man (Bb) marries a blue-eyed woman (bb). What is the probability of having a blue-eyed child? 🟤🔵"
+    },
+    {
+        "id": "L82",
+        "question": "What is the genotype of a person with blood group O? 🩸"
+    },
+    {
+        "id": "L83",
+        "question": "Explain how mitochondrial DNA is used to trace female ancestry. 🧬"
+    },
+    {
+        "id": "L84",
+        "question": "A woman who is a carrier for haemophilia (X^H X^h) marries a normal man (X^H Y). What are the chances that their son will have haemophilia? 🩸❌"
+    },
+    {
+        "id": "L85",
+        "question": "State TWO sources of stem cells used in research. 🧫"
+    },
+    {
+        "id": "L86",
+        "question": "What is the function of the nervous system? 🧠"
+    },
+    {
+        "id": "L87",
+        "question": "Name the three parts of the brain involved in coordination, voluntary movement, and vital reflexes (heartbeat/breathing). 🧠"
+    },
+    {
+        "id": "L88",
+        "question": "State the function of the corpus callosum. 📡"
+    },
+    {
+        "id": "L89",
+        "question": "What is the peripheral nervous system (PNS)? 🖋️"
+    },
+    {
+        "id": "L90",
+        "question": "Distinguish between the sympathetic and parasympathetic nervous systems. ⚖️"
+    },
+    {
+        "id": "L91",
+        "question": "What is a neuron? 🧬"
+    },
+    {
+        "id": "L92",
+        "question": "State TWO functions of the myelin sheath. 🛡️"
+    },
+    {
+        "id": "L93",
+        "question": "Define a reflex action. 🏃"
+    },
+    {
+        "id": "L94",
+        "question": "Explain the path of a reflex arc, starting from the receptor to the effector. 🔄"
+    },
+    {
+        "id": "L95",
+        "question": "What is the role of the interneuron in the spinal cord? 🔌"
+    },
+    {
+        "id": "L96",
+        "question": "State ONE symptom of Alzheimer's disease. 🧠❌"
+    },
+    {
+        "id": "L97",
+        "question": "What is the function of the retina in the human eye? 👁️"
+    },
+    {
+        "id": "L98",
+        "question": "What is accommodation in the eye? 👓"
+    },
+    {
+        "id": "L99",
+        "question": "Explain how the pupilary mechanism works in bright light. ☀️"
+    },
+    {
+        "id": "L100",
+        "question": "Describe the visual defect known as myopia (short-sightedness). 👓"
+    },
+    {
+        "id": "L101",
+        "question": "What is astigmatism? 🤓"
+    },
+    {
+        "id": "L102",
+        "question": "State the function of the organ of Corti in the ear. 👂"
+    },
+    {
+        "id": "L103",
+        "question": "What is the role of the semicircular canals (cristae) in the ear? ⚖️"
+    },
+    {
+        "id": "L104",
+        "question": "What causes a middle ear infection? 🤧"
+    },
+    {
+        "id": "L105",
+        "question": "What are grommets used for? 💉"
+    },
+    {
+        "id": "L106",
+        "question": "Why is binocular vision important for humans? 🦅"
+    },
+    {
+        "id": "L107",
+        "question": "Explain the process of hearing (from sound waves to nerve impulses). 🎵"
+    },
+    {
+        "id": "L108",
+        "question": "What is the difference between sensory and motor neurons? 🧬"
+    },
+    {
+        "id": "L109",
+        "question": "How does a cochlear implant help a deaf person? 🔊"
+    },
+    {
+        "id": "L110",
+        "question": "State the significance of a synapse in nerve transmission. 💡"
+    },
+    {
+        "id": "L111",
+        "question": "Define a hormone. 🖋️"
+    },
+    {
+        "id": "L112",
+        "question": "Distinguish between an endocrine gland and an exocrine gland. 🧪"
+    },
+    {
+        "id": "L113",
+        "question": "State the hormone secreted by the pituitary gland that stimulates the thyroid gland. 💉"
+    },
+    {
+        "id": "L114",
+        "question": "Name the hormone that regulates water balance in the body (osmoregulation). 💧"
+    },
+    {
+        "id": "L115",
+        "question": "What is the function of insulin? 🩸"
+    },
+    {
+        "id": "L116",
+        "question": "Which gland secretes glucagon? 🤷"
+    },
+    {
+        "id": "L117",
+        "question": "Define homeostasis. 🖋️"
+    },
+    {
+        "id": "L118",
+        "question": "Explain how a negative feedback mechanism regulates thyroxin levels. 📉"
+    },
+    {
+        "id": "L119",
+        "question": "What is the cause of Diabetes mellitus? 🩸❌"
+    },
+    {
+        "id": "L120",
+        "question": "State the role of aldosterone. 🧂"
+    },
+    {
+        "id": "L121",
+        "question": "Explain thermoregulation. 🌡️"
+    },
+    {
+        "id": "L122",
+        "question": "What is vasodilation? 🩸"
+    },
+    {
+        "id": "L123",
+        "question": "Explain how sweating helps cool the body. 💦"
+    },
+    {
+        "id": "L124",
+        "question": "What is the function of the Islets of Langerhans? 🔬"
+    },
+    {
+        "id": "L125",
+        "question": "State the hormone secreted by the adrenal gland that prepares the body for 'fight or flight'. ⚡"
+    },
+    {
+        "id": "L126",
+        "question": "Name the gland that secretes oestrogen. 💉"
+    },
+    {
+        "id": "L127",
+        "question": "Why is it important to maintain constant carbon dioxide levels in the blood? 🫁"
+    },
+    {
+        "id": "L128",
+        "question": "Explain the negative feedback mechanism that controls blood glucose levels after eating. 🍰"
+    },
+    {
+        "id": "L129",
+        "question": "What is a goitre and what causes it? 🦋"
+    },
+    {
+        "id": "L130",
+        "question": "Describe the role of the hypothalamus in homeostasis. 🧠"
+    },
+    {
+        "id": "L131",
+        "question": "Define geotropism. 🖋️"
+    },
+    {
+        "id": "L132",
+        "question": "What is phototropism? ☀️"
+    },
+    {
+        "id": "L133",
+        "question": "State the role of auxins in plant growth. 🌱"
+    },
+    {
+        "id": "L134",
+        "question": "Explain why a plant shoot bends towards light. 🌻"
+    },
+    {
+        "id": "L135",
+        "question": "What is the function of gibberellins in plants? 🌾"
+    },
+    {
+        "id": "L136",
+        "question": "State ONE use of plant hormones as a weed killer. 🌿❌"
+    },
+    {
+        "id": "L137",
+        "question": "How do thorns serve as a plant defence mechanism? 🌵"
+    },
+    {
+        "id": "L138",
+        "question": "Give TWO examples of chemical defences in plants. 🧪"
+    },
+    {
+        "id": "L139",
+        "question": "What is the role of abscisic acid in plants? 🍂"
+    },
+    {
+        "id": "L140",
+        "question": "Explain the difference between positive and negative geotropism (roots vs shoots). 🌱⬆️⬇️"
+    },
+    {
+        "id": "L141",
+        "question": "Define biological evolution. 🖋️"
+    },
+    {
+        "id": "L142",
+        "question": "Distinguish between a hypothesis and a theory. 🤔"
+    },
+    {
+        "id": "L143",
+        "question": "Name TWO types of evidence that support the Theory of Evolution. 🦴🧬"
+    },
+    {
+        "id": "L144",
+        "question": "Define the term homologous structures. 🖋️"
+    },
+    {
+        "id": "L145",
+        "question": "What is Lamarck's 'Law of Use and Disuse'? 🦒"
+    },
+    {
+        "id": "L146",
+        "question": "Why was Lamarck's theory rejected? ❌"
+    },
+    {
+        "id": "L147",
+        "question": "Explain Darwin's theory of evolution by natural selection. 🐦"
+    },
+    {
+        "id": "L148",
+        "question": "What is Punctuated Equilibrium (Eldredge and Gould)? 🕰️"
+    },
+    {
+        "id": "L149",
+        "question": "What is artificial selection? 🐕🌾"
+    },
+    {
+        "id": "L150",
+        "question": "Define speciation. 🖋️"
+    },
+    {
+        "id": "L151",
+        "question": "Explain how geographic isolation can lead to speciation (using the example of Galapagos finches). 🐦🏝️"
+    },
+    {
+        "id": "L152",
+        "question": "State TWO mechanisms of reproductive isolation. 🔒"
+    },
+    {
+        "id": "L153",
+        "question": "Give an example of evolution in present times (natural selection in action). 🦟💊"
+    },
+    {
+        "id": "L154",
+        "question": "Explain why bacteria develop resistance to antibiotics (MDR and XDR). 💊❌"
+    },
+    {
+        "id": "L155",
+        "question": "List THREE characteristics that humans share with African apes. 🐒"
+    },
+    {
+        "id": "L156",
+        "question": "What is bipedalism? 🚶"
+    },
+    {
+        "id": "L157",
+        "question": "State TWO anatomical differences between humans and African apes regarding the skull. 🦴"
+    },
+    {
+        "id": "L158",
+        "question": "What is the Out-of-Africa hypothesis? ✈️"
+    },
+    {
+        "id": "L159",
+        "question": "Who discovered Australopithecus sediba (Karabo)? 🤷"
+    },
+    {
+        "id": "L160",
+        "question": "Name TWO Australopithecus fossils found in South Africa (e.g., Little Foot, Mrs Ples). 🦴"
+    },
+    {
+        "id": "L161",
+        "question": "What is the significance of mitochondrial DNA (mtDNA) evidence in the Out-of-Africa hypothesis? 🧬"
+    },
+    {
+        "id": "L162",
+        "question": "Define a biological species. 🖋️"
+    },
+    {
+        "id": "L163",
+        "question": "State the difference between continuous and discontinuous variation. 📊"
+    },
+    {
+        "id": "L164",
+        "question": "Give an example of discontinuous variation. 🩸"
+    },
+    {
+        "id": "L165",
+        "question": "Why is genetic variation important for a species? 💡"
+    },
+    {
+        "id": "L166",
+        "question": "Explain how mutation contributes to evolution. 🧬"
+    },
+    {
+        "id": "L167",
+        "question": "What is the 'Law' of the inheritance of acquired characteristics (Lamarck)? 🦒"
+    },
+    {
+        "id": "L168",
+        "question": "What is the difference between a fossil and a living organism? 🦴"
+    },
+    {
+        "id": "L169",
+        "question": "State ONE reason why the Theory of Evolution is considered a scientific theory. 🔬"
+    },
+    {
+        "id": "L170",
+        "question": "Why do organisms with favourable characteristics survive and reproduce? 💡"
+    },
+    {
+        "id": "L171",
+        "question": "A farmer notices that weeds are growing rapidly in his crop field. He applies a synthetic auxin. Why does the auxin kill the weeds but not the crop? 🌽🌿"
+    },
+    {
+        "id": "L172",
+        "question": "A student argues that human evolution is linear (one species evolving directly into the next). Is this correct? Explain. ❤️ [ ] True  [👍] False (Explain Punctuated Equilibrium/Branching)."
+    },
+    {
+        "id": "L173",
+        "question": "Scenario: A couple has three daughters. They want a son. The father says it's the mother's fault. Explain why this is scientifically incorrect. 👶🧬"
+    },
+    {
+        "id": "L174",
+        "question": "Why would a person with diabetes mellitus need to inject insulin? 💉🩸"
+    },
+    {
+        "id": "L175",
+        "question": "A man is blood group AB and a woman is blood group O. Is it possible for them to have a child with blood group A? Show the cross. 🩸📝"
+    },
+    {
+        "id": "L176",
+        "question": "A scientist discovers a new fossil in Africa that is 4.2 million years old. It has a small brain but walks upright. Which genus does this fossil likely belong to? 🦴"
+    },
+    {
+        "id": "L177",
+        "question": "Why do female gametes (ova) contain a large amount of cytoplasm compared to sperm cells? 🥚"
+    },
+    {
+        "id": "L178",
+        "question": "Explain why runners often experience 'stitch' or cramp if they don't breathe properly (refer to homeostasis of CO2). 🏃🫁"
+    },
+    {
+        "id": "L179",
+        "question": "An HIV-positive patient develops tuberculosis that is resistant to multiple drugs (XDR-TB). How did this resistance develop? 💊🦠"
+    },
+    {
+        "id": "L180",
+        "question": "A plant placed on a windowsill grows towards the light. Explain the role of auxins in this response. 🌱☀️"
+    },
+    {
+        "id": "L181",
+        "question": "Explain why it is important that the amniotic fluid acts as a shock absorber. 🤰"
+    },
+    {
+        "id": "L182",
+        "question": "What would happen to a woman's menstrual cycle if the corpus luteum stopped secreting progesterone? 📅❌"
+    },
+    {
+        "id": "L183",
+        "question": "Why do penguins (which lay eggs) show such high levels of parental care? 🐧"
+    },
+    {
+        "id": "L184",
+        "question": "Why is it advantageous for a species to have crossing over during prophase I? 🧬"
+    },
+    {
+        "id": "L185",
+        "question": "A fisherman notices that fish caught near the shore have fewer young than fish caught in deeper waters. Why might this be related to fertilisation? 🐟"
+    },
+    {
+        "id": "L186",
+        "question": "State the function of the prostate gland. 🧬"
+    },
+    {
+        "id": "L187",
+        "question": "What is the function of the cervix? 🖋️"
+    },
+    {
+        "id": "L188",
+        "question": "What is the role of the hormone prolactin? 🤱"
+    },
+    {
+        "id": "L189",
+        "question": "State the function of the meninges. 🛡️"
+    },
+    {
+        "id": "L190",
+        "question": "What is the difference between the central nervous system (CNS) and the peripheral nervous system (PNS)? 🧠🔗"
+    },
+    {
+        "id": "L191",
+        "question": "Define osmoregulation. 💧"
+    },
+    {
+        "id": "L192",
+        "question": "Why is the corpus callosum important? 🧠"
+    },
+    {
+        "id": "L193",
+        "question": "Complete the cross: A plant with red flowers (RR) is crossed with a plant with white flowers (rr). Incomplete dominance occurs. What colour will the F1 offspring be? 🌸"
+    },
+    {
+        "id": "L194",
+        "question": "Define a karyotype. 🧬"
+    },
+    {
+        "id": "L195",
+        "question": "What is the function of the chorion during pregnancy? 🥚"
+    },
+    {
+        "id": "L196",
+        "question": "State the function of the adrenal gland. 💉"
+    },
+    {
+        "id": "L197",
+        "question": "What is meant by 'survival of the fittest' in Darwinism? 🐆"
+    },
+    {
+        "id": "L198",
+        "question": "Explain how the shape of the foramen magnum differs between humans and apes (and what this indicates). 🦴"
+    },
+    {
+        "id": "L199",
+        "question": "What is the difference between the 'Out-of-Africa' hypothesis and the 'Multiregional' hypothesis? 🌍"
+    },
+    {
+        "id": "L200",
+        "question": "State the significance of the Taung Child fossil in South African paleontology. 🦴🇿🇦"
+    }
+]

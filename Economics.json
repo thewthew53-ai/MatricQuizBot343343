@@ -1,0 +1,798 @@
+[
+    {
+        "id": "ECO1",
+        "question": "Define the term 'circular flow' in the context of the economy. 🔄"
+    },
+    {
+        "id": "ECO2",
+        "question": "Name the FOUR participants in the open economy circular flow model. 🏛️"
+    },
+    {
+        "id": "ECO3",
+        "question": "Distinguish between 'real flows' and 'money flows' in the circular flow. 💰"
+    },
+    {
+        "id": "ECO4",
+        "question": "Define the term 'leakages' and give THREE examples. 💧"
+    },
+    {
+        "id": "ECO5",
+        "question": "Define the term 'injections' and give THREE examples. 💉"
+    },
+    {
+        "id": "ECO6",
+        "question": "State the equation for equilibrium in the economy. 📊"
+    },
+    {
+        "id": "ECO7",
+        "question": "Define 'autonomous consumption'. 💰"
+    },
+    {
+        "id": "ECO8",
+        "question": "Define 'marginal propensity to consume' (mpc). 📊"
+    },
+    {
+        "id": "ECO9",
+        "question": "Name the FOUR markets within the four-sector circular flow model. 🏪"
+    },
+    {
+        "id": "ECO10",
+        "question": "Briefly describe the 'factor market' in the circular flow. 👷"
+    },
+    {
+        "id": "ECO11",
+        "question": "Briefly describe the 'product market' in the circular flow. 🛒"
+    },
+    {
+        "id": "ECO12",
+        "question": "Briefly describe the 'financial market' in the circular flow. 🏦"
+    },
+    {
+        "id": "ECO13",
+        "question": "Briefly describe the 'foreign exchange market' in the circular flow. 💱"
+    },
+    {
+        "id": "ECO14",
+        "question": "Define GDP (Gross Domestic Product). 📊"
+    },
+    {
+        "id": "ECO15",
+        "question": "Define GNP (Gross National Product). 📊"
+    },
+    {
+        "id": "ECO16",
+        "question": "Name the THREE methods used to determine GDP. 📋"
+    },
+    {
+        "id": "ECO17",
+        "question": "Explain the 'production method' (GDP(P)) of calculating GDP. 🏭"
+    },
+    {
+        "id": "ECO18",
+        "question": "Explain the 'income method' (GDP(I)) of calculating GDP. 💰"
+    },
+    {
+        "id": "ECO19",
+        "question": "Explain the 'expenditure method' (GDP(E)) of calculating GDP. 🛒"
+    },
+    {
+        "id": "ECO20",
+        "question": "Distinguish between 'factor cost', 'basic prices' and 'market prices'. 📊"
+    },
+    {
+        "id": "ECO21",
+        "question": "Explain the purpose of the System of National Accounts (SNA). 📋"
+    },
+    {
+        "id": "ECO22",
+        "question": "Define the 'multiplier' concept. 🔢"
+    },
+    {
+        "id": "ECO23",
+        "question": "Calculate the value of the multiplier using the formula: 1/(1-mpc) given mpc = 0.8. 🧮"
+    },
+    {
+        "id": "ECO24",
+        "question": "Explain the multiplier process with the use of a well-labelled graph. 📈"
+    },
+    {
+        "id": "ECO25",
+        "question": "What is the effect of a 3-sector and 4-sector economy on the value of the multiplier? 📊"
+    },
+    {
+        "id": "ECO26",
+        "question": "Define the term 'business cycle'. 📈"
+    },
+    {
+        "id": "ECO27",
+        "question": "Draw and label a typical business cycle diagram. ✏️"
+    },
+    {
+        "id": "ECO28",
+        "question": "Explain the phases of a business cycle (expansion, peak, contraction, trough). 📈"
+    },
+    {
+        "id": "ECO29",
+        "question": "Explain the exogenous (monetarist) explanation of business cycles. 📊"
+    },
+    {
+        "id": "ECO30",
+        "question": "Explain the endogenous (Keynesian) explanation of business cycles. 📊"
+    },
+    {
+        "id": "ECO31",
+        "question": "Compare the exogenous and endogenous explanations of business cycles. 🔍"
+    },
+    {
+        "id": "ECO32",
+        "question": "Name the FOUR types of business cycles (Kitchin, Jugler, Kuznets and Kondratieff). 📋"
+    },
+    {
+        "id": "ECO33",
+        "question": "Explain the composition of fiscal policy (taxes and government expenditure). 💰"
+    },
+    {
+        "id": "ECO34",
+        "question": "Explain the composition of monetary policy (interest rates, open market transactions, cash reserve requirement, moral suasion). 🏦"
+    },
+    {
+        "id": "ECO35",
+        "question": "Discuss 'the new economic paradigm' (smoothing of cycles). 🔄"
+    },
+    {
+        "id": "ECO36",
+        "question": "Explain demand-side policies in smoothing out business cycles. 📈"
+    },
+    {
+        "id": "ECO37",
+        "question": "Explain supply-side policies in smoothing out business cycles. 📈"
+    },
+    {
+        "id": "ECO38",
+        "question": "Explain the effect of demand-side and supply-side policies using an AD/AS graph. 📈"
+    },
+    {
+        "id": "ECO39",
+        "question": "Define the following forecasting indicators: leading, coincidence, lagging and composite. 🔮"
+    },
+    {
+        "id": "ECO40",
+        "question": "Define 'amplitude' in the context of business cycles. 📊"
+    },
+    {
+        "id": "ECO41",
+        "question": "Define 'trend line' in the context of business cycles. 📈"
+    },
+    {
+        "id": "ECO42",
+        "question": "Define 'extrapolation' as a forecasting method. 🔮"
+    },
+    {
+        "id": "ECO43",
+        "question": "Define 'moving averages' as a forecasting method. 📊"
+    },
+    {
+        "id": "ECO44",
+        "question": "Explain the necessity of the public sector in the economy. 🏛️"
+    },
+    {
+        "id": "ECO45",
+        "question": "Explain the term 'public goods'. 🏛️"
+    },
+    {
+        "id": "ECO46",
+        "question": "Discuss how accountability contributes to poor public sector provisioning. ⚠️"
+    },
+    {
+        "id": "ECO47",
+        "question": "Discuss how efficiency contributes to poor public sector provisioning. ⚠️"
+    },
+    {
+        "id": "ECO48",
+        "question": "Discuss how assessing needs contributes to poor public sector provisioning. ⚠️"
+    },
+    {
+        "id": "ECO49",
+        "question": "Discuss how pricing policy contributes to poor public sector provisioning. ⚠️"
+    },
+    {
+        "id": "ECO50",
+        "question": "Discuss the main objectives of the public sector in the economy. 🎯"
+    },
+    {
+        "id": "ECO51",
+        "question": "Distinguish between the Medium Term Expenditure Framework (MTEF) and the Medium Term Budget Policy Statement (MTBPS). 📋"
+    },
+    {
+        "id": "ECO52",
+        "question": "Explain how socio-economic rights are embedded in the budgets of the South African government. ⚖️"
+    },
+    {
+        "id": "ECO53",
+        "question": "Define the term 'fiscal policy'. 💰"
+    },
+    {
+        "id": "ECO54",
+        "question": "Discuss the effects of fiscal policy on income distribution. 📊"
+    },
+    {
+        "id": "ECO55",
+        "question": "Discuss the effects of fiscal policy on consumption. 🛒"
+    },
+    {
+        "id": "ECO57",
+        "question": "Draw and interpret the Laffer curve. ✏️"
+    },
+    {
+        "id": "ECO58",
+        "question": "Explain the features of public sector failure (ineffectiveness and inefficiency). ❌"
+    },
+    {
+        "id": "ECO59",
+        "question": "Discuss the reasons for public sector failure (management failure, apathy, lack of motivation, bureaucracy, politicians, structural weaknesses, special interest groups). 📋"
+    },
+    {
+        "id": "ECO60",
+        "question": "Explain the effects of public sector failure on the allocation of resources. 📊"
+    },
+    {
+        "id": "ECO61",
+        "question": "Explain the effects of public sector failure on economic instability. 📉"
+    },
+    {
+        "id": "ECO62",
+        "question": "Explain the effects of public sector failure on the distribution of income. 💰"
+    },
+    {
+        "id": "ECO63",
+        "question": "Discuss the reasons for international trade (demand and supply reasons). 🌍"
+    },
+    {
+        "id": "ECO64",
+        "question": "Explain 'absolute advantage' in international trade. 📊"
+    },
+    {
+        "id": "ECO65",
+        "question": "Explain 'comparative advantage' in international trade. 📊"
+    },
+    {
+        "id": "ECO66",
+        "question": "Explain the effects of international trade (specialisation, mass production, efficiency, globalisation). 🌍"
+    },
+    {
+        "id": "ECO67",
+        "question": "Define the Balance of Payments (BoP). 📊"
+    },
+    {
+        "id": "ECO68",
+        "question": "Explain the composition of the Current Account in the BoP. 📋"
+    },
+    {
+        "id": "ECO69",
+        "question": "Explain the composition of the Financial Account in the BoP. 📋"
+    },
+    {
+        "id": "ECO70",
+        "question": "Explain the composition of the Capital Transfer Account in the BoP. 📋"
+    },
+    {
+        "id": "ECO71",
+        "question": "Discuss the measures to correct a BoP deficit. 📉"
+    },
+    {
+        "id": "ECO72",
+        "question": "Discuss the measures to correct a BoP surplus. 📈"
+    },
+    {
+        "id": "ECO73",
+        "question": "Explain the concept of 'appreciation' of a currency. 💱"
+    },
+    {
+        "id": "ECO74",
+        "question": "Explain the concept of 'depreciation' of a currency. 💱"
+    },
+    {
+        "id": "ECO75",
+        "question": "Explain the concept of 'devaluation' of a currency. 💱"
+    },
+    {
+        "id": "ECO76",
+        "question": "Explain the concept of 'revaluation' of a currency. 💱"
+    },
+    {
+        "id": "ECO77",
+        "question": "Explain the factors affecting the demand for foreign exchange. 💱"
+    },
+    {
+        "id": "ECO78",
+        "question": "Explain the factors affecting the supply of foreign exchange. 💱"
+    },
+    {
+        "id": "ECO79",
+        "question": "Draw and interpret an exchange rate equilibrium graph. 📈"
+    },
+    {
+        "id": "ECO80",
+        "question": "Explain the free floating exchange rate system. 💱"
+    },
+    {
+        "id": "ECO81",
+        "question": "Explain the managed floating exchange rate system. 💱"
+    },
+    {
+        "id": "ECO82",
+        "question": "Explain the fixed exchange rate system. 💱"
+    },
+    {
+        "id": "ECO83",
+        "question": "Define the 'terms of trade' and explain the formula. 📊"
+    },
+    {
+        "id": "ECO84",
+        "question": "Define the term 'perfect market'. 📊"
+    },
+    {
+        "id": "ECO85",
+        "question": "Examine the characteristics of a perfect market. 📋"
+    },
+    {
+        "id": "ECO86",
+        "question": "Distinguish between the individual business and the industry in a perfect market. 🔍"
+    },
+    {
+        "id": "ECO87",
+        "question": "Draw a graph to show the derivation of the demand curve for an individual business in a perfect market. ✏️"
+    },
+    {
+        "id": "ECO88",
+        "question": "Show that D = P = AR = MR in a perfect market. 📊"
+    },
+    {
+        "id": "ECO89",
+        "question": "Draw a graph to explain profit maximisation using TC and TR curves. 📈"
+    },
+    {
+        "id": "ECO90",
+        "question": "Draw a graph to explain profit maximisation using MC and MR curves. 📈"
+    },
+    {
+        "id": "ECO91",
+        "question": "Explain economic profit in the short run for a perfect market with the aid of a graph. 📈"
+    },
+    {
+        "id": "ECO92",
+        "question": "Explain economic loss in the short run for a perfect market with the aid of a graph. 📉"
+    },
+    {
+        "id": "ECO93",
+        "question": "Explain normal profit in the short and long run with the aid of a graph. 📊"
+    },
+    {
+        "id": "ECO94",
+        "question": "Explain the shutdown point using costs and revenue (FC, VC, TC, TR) and graphically (AR and AVC). 🛑"
+    },
+    {
+        "id": "ECO95",
+        "question": "Describe the aims/objectives of the competition policy. 🎯"
+    },
+    {
+        "id": "ECO96",
+        "question": "Briefly describe the Competition Act, 1998 (Act 89 of 1998), as amended. 📜"
+    },
+    {
+        "id": "ECO97",
+        "question": "Explain the role of the Competition Commission. 🏛️"
+    },
+    {
+        "id": "ECO98",
+        "question": "Explain the role of the Competition Tribunal. ⚖️"
+    },
+    {
+        "id": "ECO99",
+        "question": "Explain the role of the Competition Appeal Court. ⚖️"
+    },
+    {
+        "id": "ECO100",
+        "question": "Evaluate the successes/failures of the competition policy. 📊"
+    },
+    {
+        "id": "ECO101",
+        "question": "Define the term 'monopoly'. 🏢"
+    },
+    {
+        "id": "ECO102",
+        "question": "Examine the characteristics of a monopoly. 📋"
+    },
+    {
+        "id": "ECO103",
+        "question": "Distinguish between natural and artificial monopolies. 🔍"
+    },
+    {
+        "id": "ECO104",
+        "question": "Explain the downward slope of the demand curve (AR) in a monopoly. 📉"
+    },
+    {
+        "id": "ECO105",
+        "question": "Explain the marginal revenue curve and its relationship to the demand curve in a monopoly. 📈"
+    },
+    {
+        "id": "ECO106",
+        "question": "Draw a graph to show economic profit in a monopoly. 📈"
+    },
+    {
+        "id": "ECO107",
+        "question": "Draw a graph to show economic loss in a monopoly. 📉"
+    },
+    {
+        "id": "ECO108",
+        "question": "Explain the long-run equilibrium position of a monopoly with the aid of a graph. 📈"
+    },
+    {
+        "id": "ECO109",
+        "question": "Define the term 'oligopoly'. 🏢"
+    },
+    {
+        "id": "ECO110",
+        "question": "Examine the characteristics of an oligopoly. 📋"
+    },
+    {
+        "id": "ECO111",
+        "question": "Explain non-price competition in an oligopoly (advertising, product differentiation, branding). 📢"
+    },
+    {
+        "id": "ECO112",
+        "question": "Discuss collusion in an oligopoly (overt/tacit). 🤝"
+    },
+    {
+        "id": "ECO113",
+        "question": "Explain the kinked demand curve and why oligopolists are reluctant to compete on prices. 📈"
+    },
+    {
+        "id": "ECO114",
+        "question": "Define the term 'monopolistic competition'. 🏢"
+    },
+    {
+        "id": "ECO115",
+        "question": "Examine the characteristics of monopolistic competition. 📋"
+    },
+    {
+        "id": "ECO116",
+        "question": "Explain product differentiation in monopolistic competition. 🏷️"
+    },
+    {
+        "id": "ECO117",
+        "question": "Compare and contrast perfect competition and monopoly in terms of number of businesses, nature of product, entrance, control over prices, information, examples, demand curve, economic profit/loss, decision-making, collusion, productive/technical efficiency and allocative efficiency. 🔍"
+    },
+    {
+        "id": "ECO118",
+        "question": "Compare and contrast monopoly and oligopoly. 🔍"
+    },
+    {
+        "id": "ECO119",
+        "question": "Compare and contrast oligopoly and monopolistic competition. 🔍"
+    },
+    {
+        "id": "ECO120",
+        "question": "Explain how externalities lead to the misallocation of resources. 🌍"
+    },
+    {
+        "id": "ECO121",
+        "question": "Explain how missing markets lead to the misallocation of resources. ❌"
+    },
+    {
+        "id": "ECO122",
+        "question": "Explain how imperfect competition leads to the misallocation of resources. 📊"
+    },
+    {
+        "id": "ECO123",
+        "question": "Explain how lack of information leads to the misallocation of resources. 📋"
+    },
+    {
+        "id": "ECO124",
+        "question": "Explain how immobility of factors of production leads to the misallocation of resources. 🚫"
+    },
+    {
+        "id": "ECO125",
+        "question": "Explain how imperfect distribution of income and wealth leads to market failure. 💰"
+    },
+    {
+        "id": "ECO126",
+        "question": "Compare productive inefficiency and allocative inefficiency with the aid of a well-labelled graph. 📈"
+    },
+    {
+        "id": "ECO127",
+        "question": "Describe negative externalities with the aid of a well-labelled graph. 📉"
+    },
+    {
+        "id": "ECO128",
+        "question": "Describe positive externalities with the aid of a well-labelled graph. 📈"
+    },
+    {
+        "id": "ECO129",
+        "question": "Discuss state intervention as a consequence of market failures (direct control, imperfect markets, minimum wages, maximum prices, minimum prices, taxes and subsidies, redistribution of wealth, government involvement in production). 🏛️"
+    },
+    {
+        "id": "ECO130",
+        "question": "Describe the concept of 'cost-benefit analysis' (CBA). 📊"
+    },
+    {
+        "id": "ECO131",
+        "question": "Describe the reasons for a cost-benefit analysis. 🎯"
+    },
+    {
+        "id": "ECO132",
+        "question": "Apply cost-benefit analysis in practice. 📋"
+    },
+    {
+        "id": "ECO133",
+        "question": "Define the term 'protectionism'. 🛡️"
+    },
+    {
+        "id": "ECO134",
+        "question": "Define the term 'free trade'. 🌍"
+    },
+    {
+        "id": "ECO135",
+        "question": "Discuss export promotion (definition, methods, advantages, disadvantages). 📈"
+    },
+    {
+        "id": "ECO136",
+        "question": "Discuss import substitution (definition, methods, advantages, disadvantages). 📉"
+    },
+    {
+        "id": "ECO137",
+        "question": "Discuss the arguments in favour of protectionism (industrial development, infant industries, stable wage levels, increased employment, self-sufficiency, prevention of dumping, stable exchange rates). 🛡️"
+    },
+    {
+        "id": "ECO138",
+        "question": "Explain the arguments in favour of free trade (specialisation, economies of scale, choices/increased welfare, innovations, improved international relations). 🌍"
+    },
+    {
+        "id": "ECO139",
+        "question": "Explain the concept of 'desirable mix' between import substitution and export promotion. ⚖️"
+    },
+    {
+        "id": "ECO140",
+        "question": "Explain trade liberalisation and the role of the WTO. 🌍"
+    },
+    {
+        "id": "ECO141",
+        "question": "Briefly explain the different forms of economic integration (SACU, MMA, SADC, AU, EU, Mercosur, AGOA, BRICS). 🌍"
+    },
+    {
+        "id": "ECO142",
+        "question": "Distinguish between economic growth and economic development. 🔍"
+    },
+    {
+        "id": "ECO143",
+        "question": "Discuss the demand-side approach in promoting growth and development. 📈"
+    },
+    {
+        "id": "ECO144",
+        "question": "Discuss the supply-side approach in promoting growth and development. 📈"
+    },
+    {
+        "id": "ECO145",
+        "question": "Discuss the Reconstruction and Development Programme (RDP). 🏗️"
+    },
+    {
+        "id": "ECO146",
+        "question": "Discuss the Growth, Employment and Redistribution Programme (GEAR). 📊"
+    },
+    {
+        "id": "ECO147",
+        "question": "Discuss the National Skills Development Strategy (NSDS). 📚"
+    },
+    {
+        "id": "ECO148",
+        "question": "Discuss the Accelerated and Shared Growth Initiative for South Africa (AsgiSA). 📈"
+    },
+    {
+        "id": "ECO149",
+        "question": "Discuss the Expanded Public Works Programme (EPWP). 🏗️"
+    },
+    {
+        "id": "ECO150",
+        "question": "Discuss the New Growth Path (NGP). 📈"
+    },
+    {
+        "id": "ECO151",
+        "question": "Discuss the National Development Plan (NDP). 📋"
+    },
+    {
+        "id": "ECO152",
+        "question": "Discuss the Black Economic Empowerment Programmes. 📊"
+    },
+    {
+        "id": "ECO153",
+        "question": "Compare countries in the North and South with respect to unequal standards of living, challenges of globalisation and the environment. 🌍"
+    },
+    {
+        "id": "ECO154",
+        "question": "Define the concept of 'industrial development'. 🏭"
+    },
+    {
+        "id": "ECO155",
+        "question": "Explain the reasons for industrial development. 🎯"
+    },
+    {
+        "id": "ECO156",
+        "question": "Explain the focus of the National Industrial Policy Framework (NIPF). 📋"
+    },
+    {
+        "id": "ECO157",
+        "question": "Explain the focus of the Industrial Policy Action Plan (IPAP). 📋"
+    },
+    {
+        "id": "ECO158",
+        "question": "Outline the aims of regional development. 🎯"
+    },
+    {
+        "id": "ECO159",
+        "question": "Discuss Spatial Development Initiatives (SDIs) in South Africa. 🗺️"
+    },
+    {
+        "id": "ECO160",
+        "question": "Discuss corridors in South Africa. 🛣️"
+    },
+    {
+        "id": "ECO161",
+        "question": "Discuss Industrial Development Zones (IDZs) in South Africa. 🏭"
+    },
+    {
+        "id": "ECO162",
+        "question": "Discuss Special Economic Zones (SEZs) in South Africa. 🏭"
+    },
+    {
+        "id": "ECO163",
+        "question": "Briefly discuss the incentives used by the SA government to improve industrial development. 💰"
+    },
+    {
+        "id": "ECO164",
+        "question": "Outline the appropriateness of South Africa's industrial policies. 📋"
+    },
+    {
+        "id": "ECO165",
+        "question": "Briefly discuss regional development in terms of benchmark criteria (free market orientation, competitiveness, sustainability, good governance, provisioning of resources, investment of social capital, integration, partnerships). 📋"
+    },
+    {
+        "id": "ECO166",
+        "question": "Explain and evaluate BBBEE in the South African economy. 📊"
+    },
+    {
+        "id": "ECO167",
+        "question": "Briefly discuss the importance of measuring the performance of the economy. 🎯"
+    },
+    {
+        "id": "ECO168",
+        "question": "Explain the Consumer Price Index (CPI) as an inflation indicator. 📊"
+    },
+    {
+        "id": "ECO169",
+        "question": "Explain the Producer Price Index (PPI) as an inflation indicator. 📊"
+    },
+    {
+        "id": "ECO170",
+        "question": "Explain the 'terms of trade' as a foreign trade indicator. 📊"
+    },
+    {
+        "id": "ECO171",
+        "question": "Explain the 'exchange rate' as a foreign trade indicator. 💱"
+    },
+    {
+        "id": "ECO172",
+        "question": "Explain the 'Economically Active Population' (EAP) as an employment indicator. 👷"
+    },
+    {
+        "id": "ECO173",
+        "question": "Explain the 'unemployment rate' as an employment indicator. 📊"
+    },
+    {
+        "id": "ECO174",
+        "question": "Explain 'labour productivity' as a productivity indicator. 📊"
+    },
+    {
+        "id": "ECO175",
+        "question": "Explain the 'repo rate' as an interest rate indicator. 🏦"
+    },
+    {
+        "id": "ECO176",
+        "question": "Explain M1, M2 and M3 as money supply indicators. 💰"
+    },
+    {
+        "id": "ECO177",
+        "question": "Explain 'life expectancy' as a demographic indicator. 📊"
+    },
+    {
+        "id": "ECO178",
+        "question": "Explain 'malnutrition' as a nutrition and health indicator. 🍽️"
+    },
+    {
+        "id": "ECO179",
+        "question": "Explain 'child mortality' as a health indicator. 👶"
+    },
+    {
+        "id": "ECO180",
+        "question": "Explain 'access to clean water' as a services indicator. 💧"
+    },
+    {
+        "id": "ECO181",
+        "question": "Explain 'urbanisation' as a housing indicator. 🏙️"
+    },
+    {
+        "id": "ECO182",
+        "question": "Compare South Africa's growth and development performance with that of other countries. 🌍"
+    },
+    {
+        "id": "ECO183",
+        "question": "Define the concept of 'inflation'. 📈"
+    },
+    {
+        "id": "ECO184",
+        "question": "Explain the difference between 'headline inflation' and 'core inflation'. 🔍"
+    },
+    {
+        "id": "ECO185",
+        "question": "Explain the difference between 'CPI' and 'PPI'. 🔍"
+    },
+    {
+        "id": "ECO186",
+        "question": "Explain 'hyperinflation'. 📈"
+    },
+    {
+        "id": "ECO187",
+        "question": "Explain 'stagflation'. 📈"
+    },
+    {
+        "id": "ECO188",
+        "question": "Distinguish between the characteristics of demand-pull and cost-push inflation. 🔍"
+    },
+    {
+        "id": "ECO189",
+        "question": "Discuss the causes of demand-pull inflation. 📈"
+    },
+    {
+        "id": "ECO190",
+        "question": "Discuss the causes of cost-push inflation. 📈"
+    },
+    {
+        "id": "ECO191",
+        "question": "Discuss the consequences of inflation on debtors and creditors. 💰"
+    },
+    {
+        "id": "ECO192",
+        "question": "Discuss the consequences of inflation on wage and salary earners. 👷"
+    },
+    {
+        "id": "ECO193",
+        "question": "Discuss the consequences of inflation on investors and savers. 📊"
+    },
+    {
+        "id": "ECO194",
+        "question": "Discuss the measures to combat demand-pull inflation (monetary policy, fiscal policy, other measures). 🛡️"
+    },
+    {
+        "id": "ECO195",
+        "question": "Discuss the measures to combat cost-push inflation. 🛡️"
+    },
+    {
+        "id": "ECO196",
+        "question": "Evaluate the success of inflation targeting in South Africa. 📊"
+    },
+    {
+        "id": "ECO197",
+        "question": "Explain the types of tourism. 🌍"
+    },
+    {
+        "id": "ECO198",
+        "question": "Examine the effects of tourism on GDP, employment, poverty, externalities, environment and investment. 📊"
+    },
+    {
+        "id": "ECO199",
+        "question": "Discuss South Africa's tourism profile with reference to indigenous knowledge and heritage sites. 🌍"
+    },
+    {
+        "id": "ECO200",
+        "question": "Discuss the Department of Tourism's policy suggestions (marketing, spatial distribution, taxing, infrastructure development). 📋"
+    }
+]
