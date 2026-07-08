@@ -1,1 +1,44 @@
+name: Post Matric Question
 
+on:
+  schedule:
+    # Every 30 minutes
+    - cron: "*/30 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          PAGE_TOKEN: ${{ secrets.PAGE_TOKEN }}
+          PAGE_ID: ${{ secrets.PAGE_ID }}
+        run: python FBPoster.py
+
+      - name: Commit updated question files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add *.json
+
+          git diff --cached --quiet || git commit -m "Remove posted question"
+
+          git push
