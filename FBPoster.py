@@ -1,113 +1,96 @@
-import random
-import requests
-import json
 import os
-import sys
+import time
+import math
+import requests
+from moviepy.video.io.VideoFileClip import VideoFileClip
+from requests_toolbelt import MultipartEncoder, MultipartEncoderMonitor
 
-sys.stdout.reconfigure(encoding="utf-8")
+import subprocess
 
-# ==============================
-# Facebook Settings
-# ==============================
-PAGE_TOKEN = "EAAXEooyXjaoBR0DzP4ppJZB877OR3H2bz5QNCJAkB9MIIIIV4jZByXgRXq5s9bGet5KHL580zE2tP6egcrijvxFOeWflBu913x3VZCLjSSkjfuJz1ZBqobyZCsm5Ph39bgNx5giuwCMHfZBZC8ElW2GpxPczZAhI0JIcBCUeiIpjTKjInjseHfripp86YMmjh9H2UUDZB"
-PAGE_ID = "1284133118105694"
-URL = f"https://graph.facebook.com/v23.0/{PAGE_ID}/feed"
+TOKEN = "8835211619:AAHiQJcsSUfI8eFVeegKhhIkKq7zREjmTSI"
+CHANNEL_ID = "@mbalisex"
+FOLDER_PATH = "./videos"         # Path to the folder containing your 30 videos
+TEMP_DIR = "./temp_chunks"       # Location to hold temporary 49MB clips if needed
+TARGET_MAX_SIZE = 49 * 1024 * 1024  # 49 MB safety limit in bytes
 
-# ==============================
-# Subjects
-# ==============================
+url = f"https://api.telegram.org/bot{TOKEN}/sendVideo"
 
-subjects = {
-    "Agricultural Sciences": "Agriculture.json",
-    "Business Studies": "Business.json",
-    "Economics": "Economics.json",
-    "Geography": "Geography.json",
-    "History": "History.json",
-    "Life Sciences": "LifeSciences.json",
-    "Mathematics": "Maths.json",
-    "Mathematical Literacy": "ML.json",
-    "Physical Sciences": "Physics.json",
-    "My Children!, My Africa!": "MCMA.json"
-}
+# Safe console text tracker
+def create_progress_callback(file_name):
+    def progress_callback(monitor):
+        bytes_sent = monitor.bytes_read
+        total_bytes = monitor.len
+        percentage = (bytes_sent / total_bytes) * 100
+        sent_mb = bytes_sent / (1024 * 1024)
+        total_mb = total_bytes / (1024 * 1024)
+        print(f"\rUploading {file_name}: {percentage:.1f}% ({sent_mb:.1f}/{total_mb:.1f} MB)", end="", flush=True)
+    return progress_callback
 
-# ==============================
-# Find subjects that still have questions
-# ==============================
+video_extensions = (".mp4", ".mkv", ".avi", ".mov")
 
-available_subjects = []
+if not os.path.exists(FOLDER_PATH):
+    print("Videos folder not found.")
+    exit(1)
 
-for subject, filename in subjects.items():
+all_files = [f for f in os.listdir(FOLDER_PATH) if f.lower().endswith(video_extensions)]
 
-    if not os.path.exists(filename):
-        continue
+if not all_files:
+    print("No videos found in the folder. Everything has been successfully processed!")
+    exit(0)
 
-    with open(filename, "r", encoding="utf-8") as file:
-        questions = json.load(file)
+# Robust numerical sorting so 2.mp4 runs before 10.mp4
+try:
+    all_files.sort(key=lambda x: int(os.path.splitext(x)[0]))
+except ValueError:
+    all_files.sort()
 
-    if len(questions) > 0:
-        available_subjects.append(subject)
+# Target strictly the lowest number file remaining
+TARGET_VIDEO_NAME = all_files[0]
+INPUT_VIDEO_PATH = os.path.join(FOLDER_PATH, TARGET_VIDEO_NAME)
 
-# ==============================
-# Stop if everything has been posted
-# ==============================
+print(f"Found next file to upload: {TARGET_VIDEO_NAME}")
+upload_success = True  
 
-if len(available_subjects) == 0:
+# Streaming upload directly to Telegram
+with open(INPUT_VIDEO_PATH, "rb") as video_file:
+    encoder = MultipartEncoder(
+        fields={
+            "chat_id": str(CHANNEL_ID),
+            "caption": f"Video: {TARGET_VIDEO_NAME}",
+            "supports_streaming": "true",
+            "video": (TARGET_VIDEO_NAME, video_file, "video/mp4")
+        }
+    )
+    monitor = MultipartEncoderMonitor(encoder, create_progress_callback(TARGET_VIDEO_NAME))
+    try:
+        response = requests.post(url, data=monitor, headers={"Content-Type": monitor.content_type}, timeout=300)
+        result = response.json()
+        print() 
+        if result.get("ok"):
+            print(f"{TARGET_VIDEO_NAME} uploaded successfully!")
+        else:
+            print(f"Telegram refused file: {result.get('description')}")
+            upload_success = False
+    except Exception as e:
+        print(f"\nNetwork upload exception: {e}")
+        upload_success = False
 
-    print("All questions have been posted!")
-    quit()
-
-# ==============================
-# Choose random subject
-# ==============================
-
-subject = random.choice(available_subjects)
-filename = subjects[subject]
-
-# Load questions
-
-with open(filename, "r", encoding="utf-8") as file:
-    questions = json.load(file)
-
-# Choose random question
-
-randomQuestion = random.choice(questions)
-
-print(f"Subject: {subject}")
-print(f"Question: {randomQuestion['id']}")
-
-# ==============================
-# Facebook Post
-# ==============================
-
-payload = {
-    "message": f"📚 {subject}\n\n{randomQuestion['question']}",
-    "access_token": PAGE_TOKEN
-}
-
-response = requests.post(URL, data=payload)
-
-print(response.status_code)
-print(response.text)
-
-# ==============================
-# Delete question only if post succeeded
-# ==============================
-
-if response.status_code == 200:
-
-    questions.remove(randomQuestion)
-
-    with open(filename, "w", encoding="utf-8") as file:
-        json.dump(
-            questions,
-            file,
-            indent=4,
-            ensure_ascii=False
-        )
-
-    print(f" Posted and removed {randomQuestion['id']}")
-
+# PERMANENT REPOSITORY CLEANUP
+if upload_success:
+    try:
+        print(f"Upload complete. Committing the deletion of {TARGET_VIDEO_NAME} back to GitHub...")
+        
+        # Authenticates the GitHub cloud bot instance locally
+        subprocess.run(["git", "config", "--global", "user.name", "github-actions[bot]"], check=True)
+        subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@://github.com"], check=True)
+        
+        # Track file removal and push live
+        subprocess.run(["git", "rm", INPUT_VIDEO_PATH], check=True)
+        subprocess.run(["git", "commit", "-m", f"Automated removal of uploaded video: {TARGET_VIDEO_NAME}"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        
+        print("Success! File wiped permanently from repository.")
+    except Exception as e:
+        print(f"Git execution failed: {e}")
 else:
-
-    print("Facebook rejected the post.")
-    print("Question was NOT removed.")
+    print(f"Upload issues hit. Keeping {TARGET_VIDEO_NAME} in repository for safety retry.")
